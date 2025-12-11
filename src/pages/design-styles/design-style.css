@@ -1,0 +1,250 @@
+.hero_design_styles {
+  width: 100%;
+  height: clamp(30vh, 40vh, 15vw);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(
+      to left,
+      rgba(0, 0, 0, 0.364),
+      rgba(165, 42, 42, 0.304)
+    ),
+    url(../../../public/assets/images/design-styles/design-styles-hero.jpg);
+  background-size: cover;
+  background-position: left;
+  position: relative;
+}
+
+.hero_search_field {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero_search_field input {
+  width: 40%;
+  min-width: 300px;
+  border: 2px solid goldenrod;
+  padding: 0.9em;
+  border-radius: 0.2rem;
+  border: none;
+}
+
+.hero_search_field input:focus {
+  border: 1px solid goldenrod;
+  outline: none;
+}
+
+.search_icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding-inline: 1em;
+  height: 100%;
+}
+
+.hero_buttons {
+  position: absolute;
+  bottom: -2em;
+  width: 70%;
+  min-width: 300px;
+  background-color: #2a1509;
+  padding: 1em;
+  display: flex;
+  flex-direction: row-reverse;
+  border-radius: 1vw;
+  gap: 0.5em;
+  justify-content: space-evenly;
+  align-items: center;
+
+  flex-wrap: wrap;
+}
+
+.hero_buttons button {
+  border-radius: 0.2rem;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  padding: 0.6em 1.5em;
+  font-size: clamp(0.5rem, 0.8rem, 1vw);
+  font-weight: 600;
+}
+
+/* Active button style */
+.hero_buttons button.active {
+  background-color: goldenrod;
+  color: white;
+  font-weight: bold;
+}
+
+.clear-filter-icon {
+  margin-left: 10px;
+  color: red;
+  cursor: pointer;
+  font-size: 1.5em;
+  transition: color 0.3s ease;
+}
+
+.clear-filter-icon:hover {
+  color: #ff6666;
+}
+
+.designs {
+  margin-block: 2em;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2em;
+  padding: 2em;
+}
+
+.design {
+  width: 23%;
+  display: flex;
+  transition: 0.4s ease;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 0.5rem 0.5rem 0rem 0rem;
+  min-width: 300px;
+  position: relative;
+}
+
+.design .tag,
+.design .like {
+  position: absolute;
+  top: 0;
+  width: 35%;
+  height: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0rem 0.5rem 0rem 0.5rem;
+  color: white;
+  font-size: 0.7rem;
+  background-color: #2a1509;
+  right: 0;
+}
+
+.design .like {
+  left: 0;
+  font-size: 1.2rem;
+  width: 15%;
+  background-color: transparent;
+  cursor: pointer;
+  border-radius: 0.5rem 0rem 0.5rem 0rem;
+}
+
+.design_image {
+  width: 100%;
+  border-radius: 0.5rem 0.5rem 0rem 0rem;
+  overflow: hidden;
+  height: 300px;
+  cursor: pointer;
+}
+
+.design_image img {
+  width: 100%;
+  height: 100%;
+  transition: 0.4s ease;
+  object-fit: cover;
+  filter: saturate(1.5);
+  transform: scale(110%);
+}
+
+.design_image img:hover {
+  transform: scale(120%);
+  filter: saturate(2);
+}
+
+.design .desc {
+  width: 100%;
+  gap: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0.8em;
+  background-color: #2a1509;
+  color: white;
+  border-radius: 0em 0em .5em .5em;
+}
+
+.desc > div {
+  width: 100%;
+  display: flex;
+  padding: 0.5em;
+  font-size: 0.8rem;
+  justify-content: space-between;
+  align-items: center;
+  align-items: center;
+}
+
+.rating {
+  color: gold;
+}
+
+.menu-icon {
+  display: none;
+  cursor: pointer;
+  font-size: 2rem;
+  position: absolute;
+  bottom: -1.2em;
+  left: 1em;
+  background-color: black;
+  padding: .1em;
+  z-index: 1;
+  color: whitesmoke;
+  border-radius: .1rem;
+}
+
+.menu {
+  display: flex;
+  position: absolute;
+  z-index: 1;
+  bottom: -23.5em;
+  width: 80%;
+  max-width: 500px;
+  left: 4em;
+  flex-direction: column;
+  gap: 1em;
+  background-color: #2a1509;
+  padding: .9em;
+  border-radius: 5px;
+}
+
+.menu button{
+  padding: .5em 0em;
+  border: none;
+}
+
+.clear-filter-icon {
+  cursor: pointer;
+}
+
+.menu button.active {
+  background-color: goldenrod;
+  color: white;
+  font-weight: bold;
+}
+
+
+
+@media (max-width: 800px) {
+  .hero_buttons {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+}
+

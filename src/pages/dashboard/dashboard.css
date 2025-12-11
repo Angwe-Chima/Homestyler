@@ -1,0 +1,104 @@
+.dashboard {
+  width: 100%;
+}
+
+.dashboard_hero {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.712) 30%,
+      rgba(93, 26, 26, 0.54),
+      rgba(0, 0, 0, 0.742)
+    ),
+    url(../../../public/assets/images/design-styles/ArtDecoGlamBedroom-1.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  width: 100%;
+  gap: 3em;
+  padding: 1em;
+}
+
+.dashboard_hero > div {
+  border-radius: 0.5rem;
+  flex-direction: column;
+  color: white;
+  cursor: pointer;
+  gap: 1em;
+  width: clamp(100px, 22%, 100%);
+  height: clamp(120px, 200px, 20vw);
+  display: flex;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.533);
+  backdrop-filter: blur(10px);
+  align-items: center;
+  box-shadow: 0px 0px 10px 8px rgba(0, 0, 0, 0.127);
+  transition: 0.4s ease;
+}
+
+.dashboard_hero > div h1{
+  font-size: clamp(1.5rem, 2rem, 3vw);
+}
+
+.dashboard_hero > div h2{
+  font-size: clamp(1rem, 1.5rem, 3vw);
+}
+
+
+.dashboard_hero > div:hover {
+  transform: scale(105%);
+  background-color: rgba(0, 0, 0, 0.707);
+}
+
+.dashboard_details {
+  margin-block: 3em;
+  display: flex;
+  gap: 4em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dash_desc{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  gap: 1.5em;
+} 
+
+.dash_desc h3{
+  width:75%;
+  text-align: start;
+  font-size: clamp(1rem, 1.4rem, 3vw);
+}
+
+.dash_desc h1{
+  text-align: start;
+  width:75%;
+  font-size: clamp(1.5rem, 2rem, 3vw); 
+}
+
+.dash_desc:nth-child(1) h1{
+  text-align: center;
+  width:75%;
+}
+
+@media (max-width: 750px) {
+  .dash_desc h3{
+    width:90%;
+  }
+  
+  .dash_desc h1{
+    width:90%;
+  }
+  .dashboard_hero{
+    gap: 1em;
+    height: 30vh;
+  }  
+}

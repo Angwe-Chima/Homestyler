@@ -1,0 +1,87 @@
+.designers{
+  width: 100%;
+}
+
+.designers_hero{
+  width: 100%;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.734) 30%,
+    rgba(93, 26, 26, 0.54),
+    rgba(0, 0, 0, 0.742)
+  ), url(../../../public/assets/images/design-styles/BohemianDreamBedroom-1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.designers_hero h1{
+  font-size: clamp(2rem, 4rem, 3vw);
+  color: white;
+}
+
+.designers_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 2em;
+  margin-block: 2em;
+  flex-wrap: wrap;
+  padding: 2em;
+}
+
+.designersBox{
+  border: 2px solid black;
+  width: 23%;
+  min-width: 300px;
+  height: clamp(18em, 17em, 20vw);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  border-radius: .5rem;
+}
+
+.designersBox::before {
+  content: var(--designer-name); 
+  position: absolute;
+  width: 100%;
+  border-radius: .5rem;
+  height: 15%;
+  background-color: rgba(50, 22, 22, 0.4);
+  display: flex;
+  justify-content: center;
+  color: white;
+  align-items: center;
+  bottom: 0;
+  backdrop-filter: blur(10px);
+  font-weight: bold;
+  font-size: 1rem;
+  transition: .4s ease;
+}
+
+.designersBox:hover:before {
+  height: 100%;
+  font-size: 1.5rem;
+}
+
+
+.designers_left{
+  min-width: 150px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.designersBox img{
+  width: 100%;
+  object-fit: cover;
+  border-radius: .5rem;
+  height: 100%;
+}
+

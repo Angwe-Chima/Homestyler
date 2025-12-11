@@ -1,0 +1,371 @@
+.design_detail {
+  width: 100%;
+  display: flex;
+  height: auto;
+  justify-content: center;
+  gap: 1em;
+}
+
+.details_left {
+  width: 60%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.design_back {
+  position: absolute;
+  right: 2em;
+  top: 1em;
+}
+
+.design_back button {
+  font-size: 2em;
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: 0.4s ease;
+}
+
+.design_back button:hover {
+  transform: scale(90%);
+  color: #ff9800;
+}
+
+.design_name {
+  display: flex;
+  width: 100%;
+  background-image: linear-gradient(to right, #47220d, black);
+  padding: 1em;
+  color: white;
+}
+
+.design_name h2 {
+  font-size: clamp(1rem, 1.5rem, 2vw);
+}
+
+.design_detail .line {
+  width: 2px;
+  min-height: 100vh;
+  background-color: black;
+}
+
+.details_image {
+  width: 100%;
+  height: clamp(50vh, 60vh, 30vw);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.details_image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scale(110%);
+  filter: saturate(1.4);
+  border-radius: 8px;
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.details_image img:hover {
+  transform: scale(120%);
+}
+
+.thumbnail {
+  width: 80px;
+  height: 80px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.thumbnail:hover {
+  transform: scale(1.1);
+}
+
+.thumbnail:active {
+  border: 2px solid #007bff;
+}
+
+.thumbnail.active {
+  border: 2px solid #ff9800;
+  transform: scale(1.1);
+  filter: grayscale(20);
+}
+
+.design_images {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  margin-top: 2em;
+  gap: 1em;
+}
+
+.design_images img {
+  width: 18%;
+  height: clamp(70px, 110px, 10vw);
+  object-fit: cover;
+  cursor: pointer;
+  transition: 0.4s ease;
+  filter: saturate(2);
+}
+
+.design_images img:hover {
+  filter: grayscale(20);
+}
+
+.design_products {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2em;
+  margin-block: 2em;
+}
+
+.design_products ul {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em;
+  gap: 1.5em;
+}
+
+
+.design_products ul li {
+  width: 25%;
+  height: 150px;
+  list-style: none;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.design_products ul li img{
+  width: 100%;
+  height: 100%;
+}
+
+.design_products ul li h4{
+  font-size: clamp(.7rem, .8rem, 3vw);
+}
+
+/* ///////////////////////////// */
+.details_right {
+  width: 40%;
+  padding: 1em;
+  min-height: 100vh;
+  position: relative;
+  box-shadow: 0px 0px 8px 7px rgba(128, 128, 128, 0.186);
+}
+
+.details_right .category {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-block: 0.7em;
+  border-radius: 0rem 0rem 0.5rem;
+  width: 25%;
+  min-width: 100px;
+  display: flex;
+  justify-content: center;
+  font-size: clamp(0.8em, 1em, 1vw);
+  color: white;
+  align-items: center;
+  background-color: #2a1509;
+}
+
+.design_detail_tag {
+  margin-top: 4em;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 1em;
+}
+
+.design_detail_tag button {
+  padding: 0.8em 2em;
+  border-radius: 0.2rem;
+  font-weight: 600;
+  border: none;
+  border: 1px solid #2a1509;
+  font-size: clamp(0.5rem, 0.7em, 1vw);
+}
+
+.details_right .descript {
+  display: flex;
+  margin-top: 3em;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.details_right .descript p {
+  font-size: clamp(0.8rem, 1rem, 1vw);
+  font-weight: 600;
+}
+
+.details_right .descript > div {
+  display: flex;
+  width: 80%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.details_right .descript > div p {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.rating{
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.designer_details {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4em;
+  gap: 2em;
+}
+.designer_details > div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  position: relative;
+  cursor: pointer;
+  transform: scale(95%);
+  transition: 0.4s ease;
+}
+
+.designer_details > div:hover {
+  transform: scale(90%);
+}
+
+.background_port_img {
+  position: absolute;
+  z-index: -1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 250px;
+}
+
+.background_port_img img {
+  width: 100%;
+  object-fit: cover;
+  height: 60%;
+  filter: brightness(-10%);
+}
+
+.designer_details > div > img {
+  height: 10em;
+  width: 10em;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 10px solid #2a1509;
+  filter: saturate(1.2);
+}
+
+.desgners_details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  color: white;
+  font-weight: 500;
+  position: relative;
+  height: 100%;
+  gap: 0.5em;
+}
+
+.desgners_details p,
+.desgners_details h5 {
+  font-size: 0.8rem;
+  text-shadow: 2px 2px 4px black;
+}
+
+.reviews {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1em;
+  align-items: center;
+  width: 100%;
+  margin-top: 5em;
+}
+
+.line2 {
+  height: 1px;
+  background-color: gray;
+  width: 90%;
+}
+
+.reviews li {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 0.5em;
+  list-style: none;
+}
+
+@media (max-width: 1200px) {
+  .design_detail {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .details_left {
+    width: 100%;
+  }
+  .details_right {
+    width: 100%;
+    min-height: 0;
+  }
+
+  .details_right .descript p {
+    width: 80%;
+  }
+
+  .design_detail_tag {
+    margin-top: 2em;
+  }
+
+  .design_back {
+    position: absolute;
+    right: 1em;
+    top: 0.8em;
+  }
+
+  .design_images {
+    gap: 0.5em;
+  }
+}
+
+
+@media (max-width: 720px) {
+  .details_right .descript p {
+    width: 100%;
+  }
+
+}

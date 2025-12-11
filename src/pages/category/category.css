@@ -1,0 +1,139 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  padding-inline: 10%;
+}
+
+.filter-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5em;
+}
+
+.filter-container .search-input {
+  padding: .8rem;
+  background-color: #fca87825;
+  width:30%;
+  max-width: 300px;
+  margin-bottom: 1em;
+  border-radius: 0.5rem;
+  transition: .4s ease;
+  border: 1px solid gray;
+}
+
+.filter-container input:focus{
+  width: 45%;
+}
+
+.filter-container input::placeholder {
+  color: #697077;
+}
+
+.sort-dropdown{
+  padding: 1em;
+  border-radius: .5rem;
+  border: 1px solid brown;
+  max-width: 100px;
+}
+
+.main-container-right {
+  padding: 1rem;
+}
+
+.main-container {
+  margin-top: 4em;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.details button {
+  background-color: transparent;
+  padding: 0.5em 1em;
+  display: none;
+  border-radius: 100vmax;
+  border: 1px solid #111;
+}
+
+.details h3 {
+  font-size: clamp(0.75rem, 2vw, 1.25rem);
+}
+
+.products-per-page {
+  font-size: clamp(0.5rem, 1vw, 1rem);
+  text-wrap: nowrap;
+}
+
+.products-per-page-filter {
+  border: 0;
+  cursor: pointer;
+}
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
+  gap: 1rem;
+  padding: 1em;
+}
+
+.products > .product:only-child {
+  width: 250px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  padding-block: 1.5rem;
+  gap: 0.5rem;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+
+.page-item.active .page-link {
+  color: orangered;
+  border: 0.5px solid orangered;
+}
+
+.page-link {
+  padding: 0.5rem 0.8rem;
+  background-color: transparent;
+  color: gray;
+  border: 0.5px solid black;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+
+.search-input{
+  padding: .5em;
+  background-color: red;
+   
+}
+
+
+@media screen and (max-width: 576px) {
+  .details {
+    flex-direction: column;
+    row-gap: 1rem;
+  }
+
+  .details button {
+    padding: 0.25em 0.5em;
+  }
+
+  .search-input-container {
+  }
+}
+
+@media screen and (max-width: 997px) {
+  .main-container {
+    grid-template-columns: 1fr;
+  }
+
+  .details button {
+    display: initial;
+  }
+}

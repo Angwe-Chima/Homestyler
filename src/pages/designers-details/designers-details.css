@@ -1,0 +1,191 @@
+.designer_page {
+  width: 100%;
+}
+
+.designer_page_hero {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.885) 30%,
+      rgba(93, 26, 26, 0.54),
+      rgba(0, 0, 0, 0.742)
+    ),
+    url(../../../public/assets/images/design-styles/ArtDecoGlamBedroom-1.jpg);
+  color: white;
+  background-position: center;
+  background-size: cover;
+}
+
+.designer_page_hero .top_design {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  padding: 1em;
+  align-items: center;
+}
+
+.designers_hero_img_div {
+  width: clamp(150px, 200px, 20vw);
+  height: clamp(150px, 200px, 20vw);
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+  align-items: center;
+}
+
+.designers_hero_img_div img {
+  width: 100%;
+  border-radius: 50%;
+  height: 100%;
+  object-fit: cover;
+  border-right: 15px solid brown;
+}
+
+.designer_hero_desc {
+  margin-left: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  gap: 0.8em;
+  flex-direction: column;
+}
+
+.designer_hero_desc h2 {
+  font-size: clamp(1.1rem, 1.3rem, 3vw);
+}
+
+.designer_media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8em;
+  font-size: clamp(0.8rem, 1rem, 2vw);
+}
+
+.bottom_design {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  gap: 0.7em;
+  padding: 1em;
+  margin-left: 1em;
+}
+
+.designer_socials {
+  display: flex;
+  gap: 1em;
+}
+
+.designer_socials a {
+  color: white;
+}
+
+.bottom_design .ratings {
+  color: goldenrod;
+}
+
+/*  */
+
+.designers_designs {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-block: 3em;
+  align-items: center;
+  gap: 2em;
+}
+
+.designers_designs h1 {
+  /* width: 100%; */
+  text-align: center;
+}
+
+.all_designers_designs {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 2em;
+}
+
+.design_style_box {
+  width: clamp(300px, 22%, 100%);
+  display: flex;
+  justify-content: center;
+  color: white;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.design_style_box .all_design_h3_div {
+  background-color: #2a1509;
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.all_designers_designs .all_design_img_div {
+  overflow: hidden;
+  border-radius: 0.5rem 0.5rem 0rem 0rem;
+  width: 100%;
+  height: 90%;
+}
+
+.design_style_box img {
+  width: 100%;
+  height: 100%;
+  transform: scale(110%);
+  border-radius: 0.5rem 0.5rem 0rem 0rem;
+  transition: 0.4s ease;
+}
+
+.design_style_box img:hover {
+  transform: scale(120%);
+  filter: saturate(1.5);
+}
+
+.design_style_box h3 {
+  padding: 1em;
+  font-size: clamp(0.9rem, 1.1rem, 2vw);
+}
+
+.lazy_loading_img {
+  width: 100%;
+  min-height: clamp(300px, 400px, 20vw);
+}
+
+.meet_out_designers {
+  display: flex;
+  justify-content: center;
+  gap: 1.5em;
+  align-items: center;
+  width: 100%;
+  margin-top: 3em;
+  flex-direction: column;
+}
+
+.meet_out_designers p {
+  width: 75%;
+  font-size: clamp(0.9rem, 1.2rem, 3vw);
+  text-align: center;
+}
+
+@media (max-width: 750px) {
+  .designer_hero_desc {
+    margin-left: 1em;
+  }
+  .meet_out_designers p {
+    width: 90%;
+  }
+}

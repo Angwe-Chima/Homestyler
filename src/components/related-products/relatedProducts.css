@@ -1,0 +1,12 @@
+.relatedProducts > * {
+  margin-top: 2em;
+  padding: 0em 2em;
+}
+
+.relatedProducts__items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(min(200px,100%),1fr));
+  gap: 20px;
+  justify-items: center;
+}
+

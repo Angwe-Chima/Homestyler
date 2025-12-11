@@ -1,0 +1,233 @@
+/* Modern Luxury Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.95), rgba(0,0,0,0.98));
+  backdrop-filter: blur(10px);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  transition: all 0.3s ease;
+}
+
+.logo img {
+  width: 120px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.logo img:hover {
+  transform: scale(1.05);
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.nav-links li {
+  position: relative;
+}
+
+.nav-links a {
+  color: rgba(255,255,255,0.9);
+  text-decoration: none;
+  padding: 0.75rem 1.25rem;
+  font-size: 0.95rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  transition: all 0.3s ease;
+  display: block;
+  border-radius: 0.5rem;
+}
+
+.nav-links a:hover {
+  color: #fff;
+  background: rgba(255,255,255,0.1);
+  transform: translateY(-2px);
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: rgba(10,10,10,0.98);
+  backdrop-filter: blur(20px);
+  list-style: none;
+  padding: 0.75rem;
+  min-width: 200px;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s ease;
+}
+
+.dropdown:hover .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dropdown-menu li {
+  margin: 0;
+}
+
+.dropdown-menu a {
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  border-radius: 0.5rem;
+}
+
+.dropdown-menu a:hover {
+  background: rgba(255,255,255,0.15);
+}
+
+.sub-dropdown {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  background: rgba(10,10,10,0.98);
+  backdrop-filter: blur(20px);
+  list-style: none;
+  padding: 0.75rem;
+  min-width: 180px;
+  border-radius: 0.75rem;
+  margin-left: 0.5rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+}
+
+.sub-dropdown li {
+  margin: 0;
+}
+
+.sub-dropdown a {
+  padding: 0.65rem 1rem;
+  font-size: 0.875rem;
+}
+
+.res_menu {
+  display: none;
+  color: white;
+  font-size: 1.75rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  transition: transform 0.3s ease;
+}
+
+.res_menu:hover {
+  transform: scale(1.1);
+}
+
+.hamburger {
+  display: none;
+}
+
+/* Mobile Responsive */
+@media screen and (max-width: 768px) {
+  .navbar {
+    padding: 1rem 1.5rem;
+  }
+
+  .res_menu {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 280px;
+    height: 100vh;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.98), rgba(10,10,10,0.98));
+    backdrop-filter: blur(20px);
+    padding: 5rem 1.5rem 2rem;
+    gap: 0;
+    box-shadow: -5px 0 30px rgba(0,0,0,0.5);
+    animation: slideIn 0.3s ease;
+  }
+
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  .nav-links.open {
+    display: flex;
+  }
+
+  .nav-links li {
+    width: 100%;
+    margin: 0;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+  }
+
+  .nav-links a {
+    padding: 1rem;
+    font-size: 1rem;
+    width: 100%;
+  }
+
+  .dropdown-menu {
+    position: relative;
+    margin-top: 0;
+    margin-left: 1rem;
+    width: calc(100% - 1rem);
+    min-width: auto;
+    background: rgba(255,255,255,0.05);
+    border: none;
+    box-shadow: none;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+  }
+
+  .dropdown-menu li {
+    border-bottom: 1px solid rgba(255,255,255,0.03);
+  }
+
+  .sub-dropdown {
+    position: relative;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    width: calc(100% - 1rem);
+    min-width: auto;
+    background: rgba(255,255,255,0.05);
+    border: none;
+    box-shadow: none;
+  }
+
+  .logo img {
+    width: 100px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .navbar {
+    padding: 1rem;
+  }
+
+  .nav-links {
+    width: 100%;
+  }
+
+  .logo img {
+    width: 80px;
+  }
+}
