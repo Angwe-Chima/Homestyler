@@ -25,7 +25,7 @@ const App = () => {
   return (
     <FavoritesProvider>
       <ProductsContextProvider>
-        <Router>
+        <Router basename="/homestyler">
         <ScrollToTop/>
           <MainRoutes />
         </Router>

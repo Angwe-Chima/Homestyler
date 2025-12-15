@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Luxurious Chesterfield Sofa with Deep Button Tufting and Rich Leather",
       "price": 1199999,
-      "url": "assets/images/products/product-1.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463020/shop/products/product-1.jpg",
       "category": "Furniture",
       "subcategory": "Sofa and Couches",
       "type": "Sofa",
@@ -23,7 +23,11 @@
         "Clean with a leather cleaner",
         "Condition regularly to maintain suppleness"
       ],
-      "tags": ["luxury", "leather", "classic"],
+      "tags": [
+        "luxury",
+        "leather",
+        "classic"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -42,7 +46,7 @@
       "id": 2,
       "name": "Modern Modular Sofa with Adjustable Backrest and Soft Linen Upholstery",
       "price": 849999,
-      "url": "assets/images/products/product-2.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463037/shop/products/product-2.jpg",
       "category": "Furniture",
       "subcategory": "Sofa and Couches",
       "type": "Modular Sofa",
@@ -61,7 +65,11 @@
         "Vacuum regularly",
         "Spot clean with a mild detergent"
       ],
-      "tags": ["modern", "modular", "linen"],
+      "tags": [
+        "modern",
+        "modular",
+        "linen"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -75,7 +83,7 @@
       "id": 3,
       "name": "Elegant Mid-Century Modern Sofa with Walnut Legs and High-Density Foam",
       "price": 699999,
-      "url": "assets/images/products/product-3.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463054/shop/products/product-3.jpg",
       "category": "Furniture",
       "subcategory": "Sofa and Couches",
       "type": "Sofa",
@@ -94,7 +102,11 @@
         "Vacuum regularly",
         "Spot clean with fabric cleaner"
       ],
-      "tags": ["mid-century", "retro", "walnut"],
+      "tags": [
+        "mid-century",
+        "retro",
+        "walnut"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -108,7 +120,7 @@
       "id": 4,
       "name": "Chic Sectional Sofa with Reclining Features and Plush Fabric Upholstery",
       "price": 999999,
-      "url": "assets/images/products/product-4.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463064/shop/products/product-4.jpg",
       "category": "Furniture",
       "subcategory": "Sofa and Couches",
       "type": "Sectional Sofa",
@@ -127,7 +139,11 @@
         "Vacuum regularly",
         "Clean with fabric cleaner as needed"
       ],
-      "tags": ["sectional", "reclining", "fabric"],
+      "tags": [
+        "sectional",
+        "reclining",
+        "fabric"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -141,7 +157,7 @@
       "id": 5,
       "name": "Contemporary Convertible Sofa Bed with Premium Faux Leather and Modern Design",
       "price": 799999,
-      "url": "assets/images/products/product-5.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463073/shop/products/product-5.jpg",
       "category": "Furniture",
       "subcategory": "Sofa and Couches",
       "type": "Convertible Sofa Bed",
@@ -160,7 +176,11 @@
         "Clean with a damp cloth",
         "Avoid using harsh chemicals"
       ],
-      "tags": ["convertible", "faux leather", "modern"],
+      "tags": [
+        "convertible",
+        "faux leather",
+        "modern"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -174,7 +194,7 @@
       "id": 6,
       "name": "Spacious U-Shaped Sofa with Soft Chenille Fabric and Adjustable Headrests",
       "price": 1399999,
-      "url": "assets/images/products/product-6.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463081/shop/products/product-6.jpg",
       "category": "Furniture",
       "subcategory": "Sofa and Couches",
       "type": "U-Shaped Sofa",
@@ -193,7 +213,11 @@
         "Vacuum regularly",
         "Spot clean with a chenille cleaner"
       ],
-      "tags": ["u-shaped", "chenille", "adjustable"],
+      "tags": [
+        "u-shaped",
+        "chenille",
+        "adjustable"
+      ],
       "stars": 4.9,
       "reviews": [
         {
@@ -207,7 +231,7 @@
       "id": 7,
       "name": "Modern Fabric Couch with Wide Armrests and Deep Cushions",
       "price": 649999,
-      "url": "assets/images/products/product-7.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463096/shop/products/product-7.jpg",
       "category": "Furniture",
       "subcategory": "Sofa and Couches",
       "type": "Couch",
@@ -226,7 +250,11 @@
         "Vacuum regularly",
         "Spot clean with a fabric cleaner"
       ],
-      "tags": ["modern", "wide armrests", "fabric"],
+      "tags": [
+        "modern",
+        "wide armrests",
+        "fabric"
+      ],
       "stars": 4.3,
       "reviews": [
         {
@@ -240,7 +268,7 @@
       "id": 8,
       "name": "Sleek Leather Sectional Sofa with Adjustable Headrests and Spacious Design",
       "price": 1499999,
-      "url": "assets/images/products/product-8.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463116/shop/products/product-8.jpg",
       "category": "Furniture",
       "subcategory": "Sofa and Couches",
       "type": "Sectional Sofa",
@@ -259,7 +287,11 @@
         "Clean with a leather cleaner",
         "Condition leather regularly"
       ],
-      "tags": ["sectional", "leather", "adjustable"],
+      "tags": [
+        "sectional",
+        "leather",
+        "adjustable"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -273,7 +305,7 @@
       "id": 9,
       "name": "Compact Loveseat with Velvet Upholstery and Brass Legs",
       "price": 499999,
-      "url": "assets/images/products/product-9.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463128/shop/products/product-9.jpg",
       "category": "Furniture",
       "subcategory": "Loveseats",
       "type": "Loveseat",
@@ -292,7 +324,11 @@
         "Spot clean with a velvet cleaner",
         "Avoid direct sunlight to prevent fading"
       ],
-      "tags": ["loveseat", "velvet", "compact"],
+      "tags": [
+        "loveseat",
+        "velvet",
+        "compact"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -306,7 +342,7 @@
       "id": 10,
       "name": "Classic Wingback Chair with Studded Detailing and Hardwood Frame",
       "price": 399999,
-      "url": "assets/images/products/product-10.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463137/shop/products/product-10.jpg",
       "category": "Furniture",
       "subcategory": "Chairs",
       "type": "Wingback Chair",
@@ -325,7 +361,11 @@
         "Vacuum regularly",
         "Spot clean with fabric cleaner"
       ],
-      "tags": ["classic", "wingback", "hardwood"],
+      "tags": [
+        "classic",
+        "wingback",
+        "hardwood"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -339,7 +379,7 @@
       "id": 11,
       "name": "Ergonomic Office Chair with Lumbar Support and Adjustable Armrests",
       "price": 349999,
-      "url": "assets/images/products/product-11.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463151/shop/products/product-11.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Office Chair",
@@ -358,7 +398,11 @@
         "Wipe with a damp cloth",
         "Avoid direct sunlight"
       ],
-      "tags": ["office", "ergonomic", "adjustable"],
+      "tags": [
+        "office",
+        "ergonomic",
+        "adjustable"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -382,7 +426,7 @@
       "id": 12,
       "name": "Reclining Armchair with Overstuffed Cushions and Leather Upholstery",
       "price": 499999,
-      "url": "assets/images/products/product-12.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463170/shop/products/product-12.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Recliner",
@@ -401,7 +445,11 @@
         "Clean with a leather conditioner",
         "Avoid excessive moisture"
       ],
-      "tags": ["recliner", "leather", "comfortable"],
+      "tags": [
+        "recliner",
+        "leather",
+        "comfortable"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -425,7 +473,7 @@
       "id": 13,
       "name": "Contemporary Lounge Chair with Sleek Metal Frame and Soft Fabric",
       "price": 389999,
-      "url": "assets/images/products/product-13.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463200/shop/products/product-13.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Lounge Chair",
@@ -444,7 +492,11 @@
         "Vacuum regularly",
         "Spot clean with fabric cleaner"
       ],
-      "tags": ["lounge", "fabric", "modern"],
+      "tags": [
+        "lounge",
+        "fabric",
+        "modern"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -468,7 +520,7 @@
       "id": 14,
       "name": "Vintage Wingback Chair with Classic Floral Pattern and Wooden Legs",
       "price": 599999,
-      "url": "assets/images/products/product-14.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463220/shop/products/product-14.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Wingback Chair",
@@ -487,7 +539,11 @@
         "Vacuum regularly",
         "Spot clean with a fabric cleaner"
       ],
-      "tags": ["vintage", "floral", "wooden legs"],
+      "tags": [
+        "vintage",
+        "floral",
+        "wooden legs"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -511,7 +567,7 @@
       "id": 15,
       "name": "Adjustable Recliner with Massage Function and Faux Leather Upholstery",
       "price": 699999,
-      "url": "assets/images/products/product-15.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463223/shop/products/product-15.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Recliner",
@@ -530,7 +586,11 @@
         "Clean with a damp cloth",
         "Avoid direct sunlight"
       ],
-      "tags": ["recliner", "massage", "faux leather"],
+      "tags": [
+        "recliner",
+        "massage",
+        "faux leather"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -554,7 +614,7 @@
       "id": 16,
       "name": "Mid-Century Modern Accent Chair with Rich Velvet Upholstery and Sleek Legs",
       "price": 419999,
-      "url": "assets/images/products/product-16.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463228/shop/products/product-16.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Accent Chair",
@@ -573,7 +633,11 @@
         "Vacuum regularly",
         "Spot clean with velvet cleaner"
       ],
-      "tags": ["mid-century", "velvet", "accent"],
+      "tags": [
+        "mid-century",
+        "velvet",
+        "accent"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -597,7 +661,7 @@
       "id": 17,
       "name": "Classic Recliner Chair with Wooden Frame and Comfortable Cushioning",
       "price": 429999,
-      "url": "assets/images/products/product-17.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463229/shop/products/product-17.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Recliner",
@@ -616,7 +680,11 @@
         "Vacuum regularly",
         "Spot clean with fabric cleaner"
       ],
-      "tags": ["classic", "recliner", "wooden frame"],
+      "tags": [
+        "classic",
+        "recliner",
+        "wooden frame"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -640,7 +708,7 @@
       "id": 18,
       "name": "Modern Swivel Chair with Sleek Design and Adjustable Height",
       "price": 329999,
-      "url": "assets/images/products/product-18.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463232/shop/products/product-18.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Swivel Chair",
@@ -659,7 +727,11 @@
         "Wipe with a damp cloth",
         "Avoid excessive moisture"
       ],
-      "tags": ["swivel", "modern", "adjustable"],
+      "tags": [
+        "swivel",
+        "modern",
+        "adjustable"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -683,7 +755,7 @@
       "id": 19,
       "name": "Luxury Reclining Lounge Chair with Adjustable Headrest and Footrest",
       "price": 799999,
-      "url": "assets/images/products/product-19.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463236/shop/products/product-19.jpg",
       "category": "Furniture",
       "subcategory": "Chairs and Recliners",
       "type": "Recliner",
@@ -702,12 +774,16 @@
         "Clean with a leather conditioner",
         "Avoid excessive moisture"
       ],
-      "tags": ["luxury", "reclining", "adjustable"],
+      "tags": [
+        "luxury",
+        "reclining",
+        "adjustable"
+      ],
       "stars": 4.9,
       "reviews": [
         {
           "name": "Charlotte Hall",
-          "rating": 5.0,
+          "rating": 5,
           "comment": "Absolutely luxurious! The reclining feature with adjustable headrest is perfect."
         },
         {
@@ -726,7 +802,7 @@
       "id": 21,
       "name": "Rustic Farmhouse Dining Table with Reclaimed Wood and Distressed Finish",
       "price": 899999,
-      "url": "assets/images/products/product-21.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463239/shop/products/product-21.jpg",
       "category": "Furniture",
       "subcategory": "Tables",
       "type": "Dining Table",
@@ -745,7 +821,11 @@
         "Wipe with a damp cloth",
         "Avoid excessive moisture"
       ],
-      "tags": ["rustic", "farmhouse", "reclaimed wood"],
+      "tags": [
+        "rustic",
+        "farmhouse",
+        "reclaimed wood"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -769,7 +849,7 @@
       "id": 22,
       "name": "Glass Top Coffee Table with Stainless Steel Frame and Modern Design",
       "price": 499999,
-      "url": "assets/images/products/product-22.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463241/shop/products/product-22.jpg",
       "category": "Furniture",
       "subcategory": "Tables",
       "type": "Coffee Table",
@@ -788,7 +868,11 @@
         "Clean with glass cleaner",
         "Avoid abrasive cleaners"
       ],
-      "tags": ["modern", "glass", "stainless steel"],
+      "tags": [
+        "modern",
+        "glass",
+        "stainless steel"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -812,7 +896,7 @@
       "id": 23,
       "name": "Extendable Wooden Dining Table with Dark Oak Finish and Hidden Storage",
       "price": 1199999,
-      "url": "assets/images/products/product-23.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463244/shop/products/product-23.jpg",
       "category": "Furniture",
       "subcategory": "Tables",
       "type": "Dining Table",
@@ -831,7 +915,11 @@
         "Clean with a wood polish",
         "Avoid excessive moisture"
       ],
-      "tags": ["extendable", "oak wood", "hidden storage"],
+      "tags": [
+        "extendable",
+        "oak wood",
+        "hidden storage"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -855,7 +943,7 @@
       "id": 24,
       "name": "Round Marble Coffee Table with Gold Base and Elegant Design",
       "price": 799999,
-      "url": "assets/images/products/product-24.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463248/shop/products/product-24.jpg",
       "category": "Furniture",
       "subcategory": "Tables",
       "type": "Coffee Table",
@@ -874,7 +962,11 @@
         "Wipe with a damp cloth",
         "Avoid abrasive cleaners"
       ],
-      "tags": ["marble", "gold base", "elegant"],
+      "tags": [
+        "marble",
+        "gold base",
+        "elegant"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -898,7 +990,7 @@
       "id": 25,
       "name": "Mid-Century Modern Dining Table with Walnut Veneer and Tapered Legs",
       "price": 849999,
-      "url": "assets/images/products/product-25.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463251/shop/products/product-25.jpg",
       "category": "Furniture",
       "subcategory": "Tables",
       "type": "Dining Table",
@@ -917,7 +1009,11 @@
         "Clean with a wood polish",
         "Avoid harsh chemicals"
       ],
-      "tags": ["mid-century", "walnut veneer", "tapered legs"],
+      "tags": [
+        "mid-century",
+        "walnut veneer",
+        "tapered legs"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -941,7 +1037,7 @@
       "id": 26,
       "name": "Industrial Style Console Table with Metal Frame and Reclaimed Wood Top",
       "price": 699999,
-      "url": "assets/images/products/product-26.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463257/shop/products/product-26.jpg",
       "category": "Furniture",
       "subcategory": "Tables",
       "type": "Console Table",
@@ -960,7 +1056,11 @@
         "Wipe with a damp cloth",
         "Avoid harsh chemicals"
       ],
-      "tags": ["industrial", "reclaimed wood", "metal frame"],
+      "tags": [
+        "industrial",
+        "reclaimed wood",
+        "metal frame"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -984,7 +1084,7 @@
       "id": 27,
       "name": "Scandinavian Design TV Stand with Storage Compartments and Light Oak Finish",
       "price": 799999,
-      "url": "assets/images/products/product-27.jpg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463258/shop/products/product-27.jpg",
       "category": "Furniture",
       "subcategory": "TV Stands",
       "type": "TV Stand",
@@ -1003,7 +1103,11 @@
         "Wipe with a dry cloth",
         "Avoid using abrasive cleaners"
       ],
-      "tags": ["scandinavian", "oak wood", "TV stand"],
+      "tags": [
+        "scandinavian",
+        "oak wood",
+        "TV stand"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -1027,7 +1131,7 @@
       "id": 31,
       "name": "Luxury King Size Bed Frame with Upholstered Headboard and Solid Wood Base",
       "price": 1399999,
-      "url": "assets/images/products/product-31.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463264/shop/products/product-31.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Bed",
@@ -1046,7 +1150,11 @@
         "Spot clean upholstery",
         "Dust regularly"
       ],
-      "tags": ["luxury", "king size", "upholstered"],
+      "tags": [
+        "luxury",
+        "king size",
+        "upholstered"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -1070,7 +1178,7 @@
       "id": 32,
       "name": "Queen Size Memory Foam Mattress with Cooling Gel Technology",
       "price": 899999,
-      "url": "assets/images/products/product-32.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463269/shop/products/product-32.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Mattress",
@@ -1089,7 +1197,11 @@
         "Use a mattress protector",
         "Spot clean with mild detergent"
       ],
-      "tags": ["memory foam", "cooling gel", "queen size"],
+      "tags": [
+        "memory foam",
+        "cooling gel",
+        "queen size"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -1113,7 +1225,7 @@
       "id": 33,
       "name": "Platform Bed with Underbed Storage and Walnut Finish",
       "price": 1199999,
-      "url": "assets/images/products/product-33.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463274/shop/products/product-33.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Bed",
@@ -1132,7 +1244,11 @@
         "Wipe with a damp cloth",
         "Avoid excessive moisture"
       ],
-      "tags": ["platform bed", "underbed storage", "walnut finish"],
+      "tags": [
+        "platform bed",
+        "underbed storage",
+        "walnut finish"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -1156,7 +1272,7 @@
       "id": 34,
       "name": "California King Hybrid Mattress with Pocketed Coils and Latex Layer",
       "price": 1499999,
-      "url": "assets/images/products/product-34.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463278/shop/products/product-34.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Mattress",
@@ -1175,7 +1291,11 @@
         "Use a mattress protector",
         "Spot clean with mild detergent"
       ],
-      "tags": ["hybrid mattress", "pocketed coils", "latex"],
+      "tags": [
+        "hybrid mattress",
+        "pocketed coils",
+        "latex"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -1199,7 +1319,7 @@
       "id": 35,
       "name": "Minimalist Wooden Bed Frame with Slatted Headboard and Natural Oak Finish",
       "price": 1299999,
-      "url": "assets/images/products/product-35.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463281/shop/products/product-35.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Bed",
@@ -1218,7 +1338,11 @@
         "Dust regularly",
         "Wipe with a damp cloth"
       ],
-      "tags": ["minimalist", "wooden bed", "natural oak"],
+      "tags": [
+        "minimalist",
+        "wooden bed",
+        "natural oak"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -1242,7 +1366,7 @@
       "id": 36,
       "name": "Double Bed with High Tufted Headboard and Linen Upholstery",
       "price": 999999,
-      "url": "assets/images/products/product-36.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463284/shop/products/product-36.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Bed",
@@ -1261,7 +1385,11 @@
         "Vacuum upholstery regularly",
         "Spot clean with a damp cloth"
       ],
-      "tags": ["tufted headboard", "linen upholstery", "double bed"],
+      "tags": [
+        "tufted headboard",
+        "linen upholstery",
+        "double bed"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -1285,7 +1413,7 @@
       "id": 37,
       "name": "Modern Bed Frame with Adjustable Headboard and Grey Fabric Upholstery",
       "price": 1099999,
-      "url": "assets/images/products/product-37.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463288/shop/products/product-37.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Bed",
@@ -1304,7 +1432,11 @@
         "Clean with a damp cloth",
         "Avoid direct sunlight"
       ],
-      "tags": ["adjustable headboard", "grey fabric", "modern"],
+      "tags": [
+        "adjustable headboard",
+        "grey fabric",
+        "modern"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -1328,7 +1460,7 @@
       "id": 38,
       "name": "Queen Size Orthopedic Mattress with Gel Infused Memory Foam",
       "price": 799999,
-      "url": "assets/images/products/product-38.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463292/shop/products/product-38.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Mattress",
@@ -1347,7 +1479,11 @@
         "Use a mattress protector",
         "Spot clean with a mild detergent"
       ],
-      "tags": ["orthopedic", "gel infused", "queen size"],
+      "tags": [
+        "orthopedic",
+        "gel infused",
+        "queen size"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -1371,7 +1507,7 @@
       "id": 39,
       "name": "Single Bed with Built-In Drawers and Pine Wood Frame",
       "price": 699999,
-      "url": "assets/images/products/product-39.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463295/shop/products/product-39.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Bed",
@@ -1390,7 +1526,11 @@
         "Dust regularly",
         "Clean spills immediately"
       ],
-      "tags": ["single bed", "built-in drawers", "pine wood"],
+      "tags": [
+        "single bed",
+        "built-in drawers",
+        "pine wood"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -1414,7 +1554,7 @@
       "id": 40,
       "name": "Luxurious Four-Poster Canopy Bed Frame with Velvet Upholstery",
       "price": 1899999,
-      "url": "assets/images/products/product-40.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463300/shop/products/product-40.jpg",
       "category": "Furniture",
       "subcategory": "Beds and Mattress",
       "type": "Bed",
@@ -1433,7 +1573,11 @@
         "Vacuum regularly",
         "Spot clean with mild detergent"
       ],
-      "tags": ["canopy bed", "velvet upholstery", "luxurious"],
+      "tags": [
+        "canopy bed",
+        "velvet upholstery",
+        "luxurious"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -1457,7 +1601,7 @@
       "id": 41,
       "name": "Multi-Purpose Wooden Wardrobe with Sliding Doors and Mirror Panels",
       "price": 1599999,
-      "url": "assets/images/products/product-41.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463303/shop/products/product-41.jpg",
       "category": "Furniture",
       "subcategory": "Storage",
       "type": "Wardrobe",
@@ -1476,7 +1620,11 @@
         "Wipe with a damp cloth",
         "Avoid abrasive cleaners"
       ],
-      "tags": ["wardrobe", "sliding doors", "mirror panels"],
+      "tags": [
+        "wardrobe",
+        "sliding doors",
+        "mirror panels"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -1500,7 +1648,7 @@
       "id": 42,
       "name": "Compact Storage Chest with Five Drawers and Modern White Finish",
       "price": 499999,
-      "url": "assets/images/products/product-42.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463306/shop/products/product-42.jpg",
       "category": "Furniture",
       "subcategory": "Storage",
       "type": "Chest of Drawers",
@@ -1519,7 +1667,11 @@
         "Wipe with a damp cloth",
         "Avoid excessive moisture"
       ],
-      "tags": ["storage chest", "modern white", "compact"],
+      "tags": [
+        "storage chest",
+        "modern white",
+        "compact"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -1543,7 +1695,7 @@
       "id": 43,
       "name": "Rustic Bookshelf with Open Shelves and Industrial Metal Frame",
       "price": 799999,
-      "url": "assets/images/products/product-43.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463314/shop/products/product-43.jpg",
       "category": "Furniture",
       "subcategory": "Storage",
       "type": "Bookshelf",
@@ -1562,7 +1714,11 @@
         "Dust regularly",
         "Wipe with a damp cloth"
       ],
-      "tags": ["bookshelf", "rustic", "industrial"],
+      "tags": [
+        "bookshelf",
+        "rustic",
+        "industrial"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -1586,7 +1742,7 @@
       "id": 44,
       "name": "Sliding Door Shoe Cabinet with Adjustable Shelves and Dark Oak Finish",
       "price": 699999,
-      "url": "assets/images/products/product-44.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463324/shop/products/product-44.jpg",
       "category": "Furniture",
       "subcategory": "Storage",
       "type": "Shoe Cabinet",
@@ -1605,7 +1761,11 @@
         "Wipe with a damp cloth",
         "Avoid harsh chemicals"
       ],
-      "tags": ["shoe cabinet", "adjustable shelves", "dark oak"],
+      "tags": [
+        "shoe cabinet",
+        "adjustable shelves",
+        "dark oak"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -1629,7 +1789,7 @@
       "id": 45,
       "name": "Glass Display Cabinet with LED Lighting and Tempered Glass Shelves",
       "price": 1299999,
-      "url": "assets/images/products/product-45.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463330/shop/products/product-45.jpg",
       "category": "Furniture",
       "subcategory": "Storage",
       "type": "Display Cabinet",
@@ -1648,12 +1808,16 @@
         "Clean glass with a glass cleaner",
         "Dust shelves regularly"
       ],
-      "tags": ["display cabinet", "LED lighting", "tempered glass"],
+      "tags": [
+        "display cabinet",
+        "LED lighting",
+        "tempered glass"
+      ],
       "stars": 4.9,
       "reviews": [
         {
           "name": "Lucas Green",
-          "rating": 5.0,
+          "rating": 5,
           "comment": "Absolutely beautiful cabinet. The LED lighting really makes my collectibles stand out."
         },
         {
@@ -1672,7 +1836,7 @@
       "id": 46,
       "name": "Modern Upholstered Armchair with Chrome Legs and Adjustable Recline",
       "price": 899999,
-      "url": "assets/images/products/product-46.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463334/shop/products/product-46.jpg",
       "category": "Furniture",
       "subcategory": "Seating",
       "type": "Armchair",
@@ -1691,7 +1855,11 @@
         "Vacuum upholstery regularly",
         "Spot clean with a mild detergent"
       ],
-      "tags": ["armchair", "adjustable recline", "modern"],
+      "tags": [
+        "armchair",
+        "adjustable recline",
+        "modern"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -1715,7 +1883,7 @@
       "id": 47,
       "name": "Sleek Metal Frame Dining Table with Tempered Glass Top and Walnut Finish",
       "price": 1599999,
-      "url": "assets/images/products/product-47.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463339/shop/products/product-47.jpg",
       "category": "Furniture",
       "subcategory": "Dining",
       "type": "Dining Table",
@@ -1734,7 +1902,11 @@
         "Clean glass with a glass cleaner",
         "Wipe metal frame with a damp cloth"
       ],
-      "tags": ["dining table", "tempered glass", "metal frame"],
+      "tags": [
+        "dining table",
+        "tempered glass",
+        "metal frame"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -1758,7 +1930,7 @@
       "id": 48,
       "name": "Contemporary Glass Coffee Table with Geometric Metal Base",
       "price": 799999,
-      "url": "assets/images/products/product-48.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463342/shop/products/product-48.jpg",
       "category": "Furniture",
       "subcategory": "Living Room",
       "type": "Coffee Table",
@@ -1777,7 +1949,11 @@
         "Clean glass with a glass cleaner",
         "Wipe metal base with a damp cloth"
       ],
-      "tags": ["coffee table", "geometric base", "glass top"],
+      "tags": [
+        "coffee table",
+        "geometric base",
+        "glass top"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -1801,7 +1977,7 @@
       "id": 49,
       "name": "Elegant Leather Recliner Sofa with Adjustable Headrests and Built-in USB Ports",
       "price": 2999999,
-      "url": "assets/images/products/product-49.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463344/shop/products/product-49.jpg",
       "category": "Furniture",
       "subcategory": "Living Room",
       "type": "Sofa",
@@ -1820,12 +1996,16 @@
         "Clean with leather conditioner",
         "Avoid direct sunlight"
       ],
-      "tags": ["recliner sofa", "leather", "adjustable headrests"],
+      "tags": [
+        "recliner sofa",
+        "leather",
+        "adjustable headrests"
+      ],
       "stars": 4.9,
       "reviews": [
         {
           "name": "Sophia Young",
-          "rating": 5.0,
+          "rating": 5,
           "comment": "The best recliner sofa I've ever owned. The leather is so soft and the USB ports are a great addition."
         },
         {
@@ -1844,7 +2024,7 @@
       "id": 50,
       "name": "Mid-Century Modern Accent Chair with Wooden Legs and Plush Cushioning",
       "price": 799999,
-      "url": "assets/images/products/product-50.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463350/shop/products/product-50.jpg",
       "category": "Furniture",
       "subcategory": "Seating",
       "type": "Accent Chair",
@@ -1863,7 +2043,11 @@
         "Vacuum regularly",
         "Spot clean with a mild detergent"
       ],
-      "tags": ["accent chair", "mid-century modern", "plush cushioning"],
+      "tags": [
+        "accent chair",
+        "mid-century modern",
+        "plush cushioning"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -1887,7 +2071,7 @@
       "id": 51,
       "name": "Elegant Wall-Mounted Kitchen Cabinet with Glass Doors and Adjustable Shelves",
       "price": 1199999,
-      "url": "assets/images/products/product-51.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463354/shop/products/product-51.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Wall-Mounted Cabinet",
@@ -1902,7 +2086,11 @@
       },
       "weight": "30 kg",
       "description": "This Elegant Wall-Mounted Kitchen Cabinet features glass doors and adjustable shelves, providing a stylish storage solution for your kitchen essentials. The sleek white finish complements any kitchen decor, while the adjustable shelves offer flexibility for different items.",
-      "tags": ["Kitchen", "Wall Cabinet", "Glass Doors"],
+      "tags": [
+        "Kitchen",
+        "Wall Cabinet",
+        "Glass Doors"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -1921,7 +2109,7 @@
       "id": 52,
       "name": "Spacious Corner Pantry Cabinet with Multiple Shelves and Rustic Oak Finish",
       "price": 1599999,
-      "url": "assets/images/products/product-52.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463358/shop/products/product-52.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Corner Pantry Cabinet",
@@ -1936,7 +2124,11 @@
       },
       "weight": "60 kg",
       "description": "The Spacious Corner Pantry Cabinet maximizes storage in corner spaces, featuring multiple shelves for easy organization. Its rustic oak finish and durable construction make it a practical and attractive addition to any kitchen.",
-      "tags": ["Corner Pantry", "Rustic Finish", "Storage"],
+      "tags": [
+        "Corner Pantry",
+        "Rustic Finish",
+        "Storage"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -1955,7 +2147,7 @@
       "id": 53,
       "name": "Sleek Under-Counter Cabinet with Soft-Close Drawers and Modern Grey Finish",
       "price": 899999,
-      "url": "assets/images/products/product-53.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463362/shop/products/product-53.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Under-Counter Cabinet",
@@ -1970,7 +2162,11 @@
       },
       "weight": "35 kg",
       "description": "This Sleek Under-Counter Cabinet features soft-close drawers and a modern grey finish. Ideal for storing kitchen utensils and cleaning supplies, it combines functionality with a contemporary look, fitting seamlessly into modern kitchens.",
-      "tags": ["Under-Counter", "Soft-Close Drawers", "Grey Finish"],
+      "tags": [
+        "Under-Counter",
+        "Soft-Close Drawers",
+        "Grey Finish"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -1989,7 +2185,7 @@
       "id": 54,
       "name": "Classic Freestanding Pantry Cabinet with Adjustable Shelves and Cherry Finish",
       "price": 1399999,
-      "url": "assets/images/products/product-54.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463365/shop/products/product-54.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Freestanding Pantry Cabinet",
@@ -2004,7 +2200,11 @@
       },
       "weight": "55 kg",
       "description": "The Classic Freestanding Pantry Cabinet features adjustable shelves for versatile storage options and a rich cherry finish. Its timeless design and ample storage space make it an excellent choice for organizing kitchen supplies and pantry items.",
-      "tags": ["Freestanding", "Cherry Finish", "Adjustable Shelves"],
+      "tags": [
+        "Freestanding",
+        "Cherry Finish",
+        "Adjustable Shelves"
+      ],
       "stars": 4.3,
       "reviews": [
         {
@@ -2023,7 +2223,7 @@
       "id": 55,
       "name": "Compact Overhead Cabinet with Sliding Doors and White Lacquered Finish",
       "price": 699999,
-      "url": "assets/images/products/product-55.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463368/shop/products/product-55.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Overhead Cabinet",
@@ -2038,7 +2238,11 @@
       },
       "weight": "25 kg",
       "description": "This Compact Overhead Cabinet features sliding doors and a white lacquered finish, offering a sleek and space-saving storage solution. Perfect for storing small kitchen items, it enhances your kitchen's functionality and modern aesthetic.",
-      "tags": ["Overhead Cabinet", "Sliding Doors", "White Finish"],
+      "tags": [
+        "Overhead Cabinet",
+        "Sliding Doors",
+        "White Finish"
+      ],
       "stars": 4.2,
       "reviews": [
         {
@@ -2057,7 +2261,7 @@
       "id": 56,
       "name": "Rustic Pantry Cabinet with Wire Baskets and Sliding Barn Doors",
       "price": 1299999,
-      "url": "assets/images/products/product-56.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463371/shop/products/product-56.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Pantry Cabinet",
@@ -2072,7 +2276,11 @@
       },
       "weight": "50 kg",
       "description": "The Rustic Pantry Cabinet features wire baskets for easy access and sliding barn doors for a vintage touch. Its distressed grey finish and sturdy construction make it a charming and functional addition to any farmhouse-style kitchen.",
-      "tags": ["Pantry Cabinet", "Barn Doors", "Rustic Finish"],
+      "tags": [
+        "Pantry Cabinet",
+        "Barn Doors",
+        "Rustic Finish"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -2091,7 +2299,7 @@
       "id": 57,
       "name": "Modern Tall Cabinet with Push-to-Open Mechanism and High Gloss Finish",
       "price": 1499999,
-      "url": "assets/images/products/product-57.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463375/shop/products/product-57.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Tall Cabinet",
@@ -2106,7 +2314,11 @@
       },
       "weight": "45 kg",
       "description": "This Modern Tall Cabinet features a push-to-open mechanism and a high gloss black finish, offering a sleek and minimalist storage solution. Ideal for contemporary kitchens, it provides ample space and easy access with its touch-to-open design.",
-      "tags": ["Tall Cabinet", "High Gloss", "Push-to-Open"],
+      "tags": [
+        "Tall Cabinet",
+        "High Gloss",
+        "Push-to-Open"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -2125,7 +2337,7 @@
       "id": 58,
       "name": "Vintage Shaker-Style Pantry Cabinet with Adjustable Shelves and Oak Finish",
       "price": 899999,
-      "url": "assets/images/products/product-58.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463378/shop/products/product-58.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Pantry Cabinet",
@@ -2140,7 +2352,11 @@
       },
       "weight": "40 kg",
       "description": "The Vintage Shaker-Style Pantry Cabinet offers adjustable shelves and a classic oak finish, providing both style and functionality. Its traditional design and solid wood construction make it a durable and attractive choice for any kitchen.",
-      "tags": ["Shaker Style", "Oak Finish", "Adjustable Shelves"],
+      "tags": [
+        "Shaker Style",
+        "Oak Finish",
+        "Adjustable Shelves"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -2159,7 +2375,7 @@
       "id": 59,
       "name": "Contemporary Floating Cabinet with LED Lighting and Tempered Glass Panels",
       "price": 1399999,
-      "url": "assets/images/products/product-59.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463383/shop/products/product-59.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Floating Cabinet",
@@ -2174,7 +2390,11 @@
       },
       "weight": "35 kg",
       "description": "This Contemporary Floating Cabinet features LED lighting and tempered glass panels, adding a sleek and modern touch to your kitchen. Its floating design and integrated lighting enhance both style and visibility for your kitchen items.",
-      "tags": ["Floating Cabinet", "LED Lighting", "Tempered Glass"],
+      "tags": [
+        "Floating Cabinet",
+        "LED Lighting",
+        "Tempered Glass"
+      ],
       "stars": 4.9,
       "reviews": [
         {
@@ -2193,7 +2413,7 @@
       "id": 60,
       "name": "Traditional Pantry Cabinet with Glass Display Doors and Cherry Wood Finish",
       "price": 1199999,
-      "url": "assets/images/products/product-60.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463388/shop/products/product-60.jpg",
       "category": "Kitchen",
       "subcategory": "Cabinets and Pantries",
       "type": "Pantry Cabinet",
@@ -2208,7 +2428,11 @@
       },
       "weight": "50 kg",
       "description": "The Traditional Pantry Cabinet features glass display doors and a rich cherry wood finish, offering an elegant storage solution for your kitchen essentials. Its classic design and sturdy construction make it a beautiful and practical addition.",
-      "tags": ["Pantry Cabinet", "Glass Display", "Cherry Wood"],
+      "tags": [
+        "Pantry Cabinet",
+        "Glass Display",
+        "Cherry Wood"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -2227,7 +2451,7 @@
       "id": 61,
       "name": "Quartz Counter Top with Polished Finish and Edge Beveling",
       "price": 2999999,
-      "url": "assets/images/products/product-61.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463393/shop/products/product-61.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Quartz Counter Top",
@@ -2242,7 +2466,11 @@
       },
       "weight": "80 kg",
       "description": "This Quartz Counter Top features a polished finish and edge beveling, combining durability with elegance. Its white color and sleek design are perfect for modern kitchens, offering both style and functionality.",
-      "tags": ["Quartz", "Polished Finish", "Edge Beveling"],
+      "tags": [
+        "Quartz",
+        "Polished Finish",
+        "Edge Beveling"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -2261,7 +2489,7 @@
       "id": 62,
       "name": "Granite Counter Top with Natural Veining and High Gloss Finish",
       "price": 3499999,
-      "url": "assets/images/products/product-62.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463397/shop/products/product-62.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Granite Counter Top",
@@ -2276,7 +2504,11 @@
       },
       "weight": "100 kg",
       "description": "The Granite Counter Top features natural veining and a high gloss finish, offering a luxurious touch to any kitchen. Its durable granite surface resists scratches and stains, making it both stylish and practical.",
-      "tags": ["Granite", "High Gloss", "Natural Veining"],
+      "tags": [
+        "Granite",
+        "High Gloss",
+        "Natural Veining"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -2295,7 +2527,7 @@
       "id": 63,
       "name": "Marble Counter Top with Honed Finish and Waterfall Edge Design",
       "price": 3999999,
-      "url": "assets/images/products/product-63.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463401/shop/products/product-63.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Marble Counter Top",
@@ -2310,7 +2542,11 @@
       },
       "weight": "90 kg",
       "description": "This Marble Counter Top features a honed finish and waterfall edge design, providing a sophisticated and timeless look. The Carrara white marble adds elegance to any kitchen while offering a smooth and durable surface.",
-      "tags": ["Marble", "Honed Finish", "Waterfall Edge"],
+      "tags": [
+        "Marble",
+        "Honed Finish",
+        "Waterfall Edge"
+      ],
       "stars": 4.9,
       "reviews": [
         {
@@ -2329,7 +2565,7 @@
       "id": 64,
       "name": "Butcher Block Counter Top with Reclaimed Wood and Natural Finish",
       "price": 2299999,
-      "url": "assets/images/products/product-64.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463408/shop/products/product-64.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Butcher Block Counter Top",
@@ -2344,7 +2580,11 @@
       },
       "weight": "70 kg",
       "description": "The Butcher Block Counter Top, made from reclaimed wood, features a natural finish that adds warmth and character to your kitchen. Its durable surface is ideal for food preparation and adds a rustic charm.",
-      "tags": ["Butcher Block", "Reclaimed Wood", "Natural Finish"],
+      "tags": [
+        "Butcher Block",
+        "Reclaimed Wood",
+        "Natural Finish"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -2363,7 +2603,7 @@
       "id": 65,
       "name": "Stainless Steel Counter Top with Brushed Finish and Integrated Sink",
       "price": 2599999,
-      "url": "assets/images/products/product-65.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463415/shop/products/product-65.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Stainless Steel Counter Top",
@@ -2378,7 +2618,11 @@
       },
       "weight": "85 kg",
       "description": "This Stainless Steel Counter Top features a brushed finish and an integrated sink, combining modern aesthetics with practicality. It offers a sleek, easy-to-clean surface ideal for contemporary kitchens.",
-      "tags": ["Stainless Steel", "Brushed Finish", "Integrated Sink"],
+      "tags": [
+        "Stainless Steel",
+        "Brushed Finish",
+        "Integrated Sink"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -2397,7 +2641,7 @@
       "id": 66,
       "name": "Concrete Counter Top with Matte Finish and Custom Edge Profiles",
       "price": 2799999,
-      "url": "assets/images/products/product-66.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463418/shop/products/product-66.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Concrete Counter Top",
@@ -2412,7 +2656,11 @@
       },
       "weight": "95 kg",
       "description": "The Concrete Counter Top offers a matte finish and custom edge profiles, adding an industrial touch to modern kitchens. Its robust construction and unique texture make it a distinctive and durable choice.",
-      "tags": ["Concrete", "Matte Finish", "Custom Edge Profiles"],
+      "tags": [
+        "Concrete",
+        "Matte Finish",
+        "Custom Edge Profiles"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -2431,7 +2679,7 @@
       "id": 67,
       "name": "Laminate Counter Top with High-Gloss Finish and Patterned Design",
       "price": 699999,
-      "url": "assets/images/products/product-67.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463422/shop/products/product-67.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Laminate Counter Top",
@@ -2446,7 +2694,11 @@
       },
       "weight": "30 kg",
       "description": "This Laminate Counter Top features a high-gloss finish and a patterned design, offering an affordable and stylish solution. Its easy-to-clean surface and various patterns make it suitable for any kitchen decor.",
-      "tags": ["Laminate", "High-Gloss", "Patterned Design"],
+      "tags": [
+        "Laminate",
+        "High-Gloss",
+        "Patterned Design"
+      ],
       "stars": 4.2,
       "reviews": [
         {
@@ -2465,7 +2717,7 @@
       "id": 68,
       "name": "Recycled Glass Counter Top with Eco-Friendly Finish and Textured Surface",
       "price": 3199999,
-      "url": "assets/images/products/product-68.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463427/shop/products/product-68.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Recycled Glass Counter Top",
@@ -2480,7 +2732,11 @@
       },
       "weight": "75 kg",
       "description": "The Recycled Glass Counter Top features an eco-friendly finish and a textured surface, making it a sustainable choice for modern kitchens. Its frosted green color and unique texture add a distinctive look to your space.",
-      "tags": ["Recycled Glass", "Eco-Friendly", "Textured Surface"],
+      "tags": [
+        "Recycled Glass",
+        "Eco-Friendly",
+        "Textured Surface"
+      ],
       "stars": 4.9,
       "reviews": [
         {
@@ -2499,7 +2755,7 @@
       "id": 69,
       "name": "Custom-Built Concrete Counter Top with Integrated Sink and Polished Edges",
       "price": 3999999,
-      "url": "assets/images/products/product-69.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463429/shop/products/product-69.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Custom-Built Concrete Counter Top",
@@ -2514,7 +2770,11 @@
       },
       "weight": "85 kg",
       "description": "This Custom-Built Concrete Counter Top includes an integrated sink and polished edges, designed for a modern, industrial look. Its light grey color and unique construction provide both functionality and aesthetic appeal.",
-      "tags": ["Custom-Built", "Concrete", "Integrated Sink"],
+      "tags": [
+        "Custom-Built",
+        "Concrete",
+        "Integrated Sink"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -2533,7 +2793,7 @@
       "id": 70,
       "name": "Tempered Glass Counter Top with Frosted Finish and Minimalist Design",
       "price": 1899999,
-      "url": "assets/images/products/product-70.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463432/shop/products/product-70.jpg",
       "category": "Kitchen",
       "subcategory": "Counter Tops",
       "type": "Tempered Glass Counter Top",
@@ -2548,7 +2808,11 @@
       },
       "weight": "20 kg",
       "description": "The Tempered Glass Counter Top features a frosted finish and minimalist design, providing a sleek and modern look. Its durable tempered glass surface is easy to maintain and adds a touch of elegance to any kitchen.",
-      "tags": ["Tempered Glass", "Frosted Finish", "Minimalist Design"],
+      "tags": [
+        "Tempered Glass",
+        "Frosted Finish",
+        "Minimalist Design"
+      ],
       "stars": 4.3,
       "reviews": [
         {
@@ -2567,7 +2831,7 @@
       "id": 71,
       "name": "Undermount Stainless Steel Sink with Double Basins and Soundproofing",
       "price": 1299999,
-      "url": "assets/images/products/product-71.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463436/shop/products/product-71.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Undermount Sink",
@@ -2582,7 +2846,11 @@
       },
       "weight": "15 kg",
       "description": "This Undermount Stainless Steel Sink features double basins and soundproofing, offering a sleek and functional design. Its stainless steel construction ensures durability and resistance to stains and scratches.",
-      "tags": ["Undermount", "Stainless Steel", "Double Basin"],
+      "tags": [
+        "Undermount",
+        "Stainless Steel",
+        "Double Basin"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -2601,7 +2869,7 @@
       "id": 72,
       "name": "Farmhouse Apron Front Sink with Single Basin and Ceramic Finish",
       "price": 1599999,
-      "url": "assets/images/products/product-72.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463439/shop/products/product-72.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Farmhouse Sink",
@@ -2616,7 +2884,11 @@
       },
       "weight": "20 kg",
       "description": "The Farmhouse Apron Front Sink features a single basin with a classic ceramic finish, adding a traditional touch to your kitchen. Its apron front design provides extra space and ease of use for various tasks.",
-      "tags": ["Farmhouse", "Ceramic", "Single Basin"],
+      "tags": [
+        "Farmhouse",
+        "Ceramic",
+        "Single Basin"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -2635,7 +2907,7 @@
       "id": 73,
       "name": "Modern Pull-Down Faucet with Touchless Technology and Brushed Nickel Finish",
       "price": 999999,
-      "url": "assets/images/products/product-73.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463441/shop/products/product-73.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Pull-Down Faucet",
@@ -2650,7 +2922,11 @@
       },
       "weight": "2 kg",
       "description": "This Modern Pull-Down Faucet features touchless technology and a brushed nickel finish, providing convenience and style. The pull-down design makes it easy to rinse and clean, while the touchless feature adds a modern touch.",
-      "tags": ["Pull-Down", "Touchless", "Brushed Nickel"],
+      "tags": [
+        "Pull-Down",
+        "Touchless",
+        "Brushed Nickel"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -2669,7 +2945,7 @@
       "id": 74,
       "name": "Classic Single-Hole Faucet with Lever Handle and Chrome Finish",
       "price": 499999,
-      "url": "assets/images/products/product-74.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463444/shop/products/product-74.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Single-Hole Faucet",
@@ -2684,7 +2960,11 @@
       },
       "weight": "1.5 kg",
       "description": "The Classic Single-Hole Faucet features a lever handle and chrome finish, offering a sleek and timeless design. Its single-hole installation is easy to fit into various kitchen setups.",
-      "tags": ["Single-Hole", "Chrome", "Lever Handle"],
+      "tags": [
+        "Single-Hole",
+        "Chrome",
+        "Lever Handle"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -2703,7 +2983,7 @@
       "id": 75,
       "name": "Commercial-Grade Sink with Deep Basin and Faucet Set",
       "price": 1899999,
-      "url": "assets/images/products/product-75.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463448/shop/products/product-75.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Commercial Sink",
@@ -2718,7 +2998,11 @@
       },
       "weight": "25 kg",
       "description": "This Commercial-Grade Sink features a deep basin and comes with a matching faucet set, designed for heavy-duty use. Its stainless steel construction ensures durability and ease of maintenance.",
-      "tags": ["Commercial", "Stainless Steel", "Deep Basin"],
+      "tags": [
+        "Commercial",
+        "Stainless Steel",
+        "Deep Basin"
+      ],
       "stars": 4.9,
       "reviews": [
         {
@@ -2737,7 +3021,7 @@
       "id": 76,
       "name": "Vintage Wall-Mount Faucet with Cross Handles and Oil-Rubbed Bronze Finish",
       "price": 799999,
-      "url": "assets/images/products/product-76.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463451/shop/products/product-76.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Wall-Mount Faucet",
@@ -2752,7 +3036,11 @@
       },
       "weight": "1.8 kg",
       "description": "The Vintage Wall-Mount Faucet features cross handles and an oil-rubbed bronze finish, offering a classic and charming look. Its wall-mount design is perfect for traditional kitchens.",
-      "tags": ["Wall-Mount", "Bronze", "Cross Handles"],
+      "tags": [
+        "Wall-Mount",
+        "Bronze",
+        "Cross Handles"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -2771,7 +3059,7 @@
       "id": 77,
       "name": "High-Arc Bridge Faucet with Double Handles and Polished Chrome Finish",
       "price": 1199999,
-      "url": "assets/images/products/product-77.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463454/shop/products/product-77.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Bridge Faucet",
@@ -2786,7 +3074,11 @@
       },
       "weight": "2.5 kg",
       "description": "This High-Arc Bridge Faucet features double handles and a polished chrome finish, combining classic design with modern functionality. Its high arc spout provides ample clearance for larger pots and pans.",
-      "tags": ["Bridge Faucet", "Chrome", "Double Handles"],
+      "tags": [
+        "Bridge Faucet",
+        "Chrome",
+        "Double Handles"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -2805,7 +3097,7 @@
       "id": 78,
       "name": "Pull-Down Spray Faucet with Single Handle and Matte Black Finish",
       "price": 899999,
-      "url": "assets/images/products/product-78.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463456/shop/products/product-78.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Pull-Down Spray Faucet",
@@ -2820,7 +3112,11 @@
       },
       "weight": "2 kg",
       "description": "The Pull-Down Spray Faucet features a single handle and matte black finish, offering a sleek and modern look. Its pull-down spray function provides versatility and ease of use in the kitchen.",
-      "tags": ["Pull-Down", "Matte Black", "Spray Function"],
+      "tags": [
+        "Pull-Down",
+        "Matte Black",
+        "Spray Function"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -2839,7 +3135,7 @@
       "id": 79,
       "name": "Contemporary Single-Basin Sink with Integrated Drainboard and Satin Finish",
       "price": 1399999,
-      "url": "assets/images/products/product-79.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463458/shop/products/product-79.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Single-Basin Sink",
@@ -2854,7 +3150,11 @@
       },
       "weight": "12 kg",
       "description": "This Contemporary Single-Basin Sink features an integrated drainboard and satin finish, combining functionality with modern design. Its spacious basin and sleek appearance are perfect for contemporary kitchens.",
-      "tags": ["Single-Basin", "Satin Finish", "Drainboard"],
+      "tags": [
+        "Single-Basin",
+        "Satin Finish",
+        "Drainboard"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -2873,7 +3173,7 @@
       "id": 80,
       "name": "Elegant Gooseneck Faucet with Adjustable Spout and Antique Brass Finish",
       "price": 1099999,
-      "url": "assets/images/products/product-80.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463461/shop/products/product-80.jpg",
       "category": "Kitchen",
       "subcategory": "Sinks and Faucets",
       "type": "Gooseneck Faucet",
@@ -2888,7 +3188,11 @@
       },
       "weight": "2.2 kg",
       "description": "The Elegant Gooseneck Faucet features an adjustable spout and antique brass finish, adding a touch of sophistication to your kitchen. Its gooseneck design allows for easy maneuverability and optimal water flow.",
-      "tags": ["Gooseneck", "Antique Brass", "Adjustable Spout"],
+      "tags": [
+        "Gooseneck",
+        "Antique Brass",
+        "Adjustable Spout"
+      ],
       "stars": 4.9,
       "reviews": [
         {
@@ -2907,7 +3211,7 @@
       "id": 81,
       "name": "Modern Kitchen Island with Granite Countertop and Adjustable Shelves",
       "price": 2999999,
-      "url": "assets/images/products/product-81.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463464/shop/products/product-81.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Kitchen Island",
@@ -2922,7 +3226,11 @@
       },
       "weight": "80 kg",
       "description": "This Modern Kitchen Island features a durable granite countertop and adjustable shelves for versatile storage. Its sleek design and ample workspace make it a perfect addition to contemporary kitchens.",
-      "tags": ["Granite", "Adjustable Shelves", "Modern"],
+      "tags": [
+        "Granite",
+        "Adjustable Shelves",
+        "Modern"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -2941,7 +3249,7 @@
       "id": 82,
       "name": "Compact Rolling Cart with Wooden Top and Metal Frame",
       "price": 899999,
-      "url": "assets/images/products/product-82.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463467/shop/products/product-82.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Rolling Cart",
@@ -2956,7 +3264,11 @@
       },
       "weight": "15 kg",
       "description": "The Compact Rolling Cart features a wooden top and metal frame, offering both style and functionality. Its wheels provide easy mobility, making it ideal for small kitchens or additional workspace.",
-      "tags": ["Wooden Top", "Rolling Cart", "Compact"],
+      "tags": [
+        "Wooden Top",
+        "Rolling Cart",
+        "Compact"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -2975,7 +3287,7 @@
       "id": 83,
       "name": "Luxury Kitchen Island with Built-in Wine Rack and Marble Top",
       "price": 3999999,
-      "url": "assets/images/products/product-83.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463470/shop/products/product-83.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Kitchen Island",
@@ -2990,7 +3302,11 @@
       },
       "weight": "120 kg",
       "description": "This Luxury Kitchen Island features a built-in wine rack and a luxurious marble top. Its elegant design and high-quality materials make it a centerpiece for any upscale kitchen.",
-      "tags": ["Marble", "Wine Rack", "Luxury"],
+      "tags": [
+        "Marble",
+        "Wine Rack",
+        "Luxury"
+      ],
       "stars": 4.9,
       "reviews": [
         {
@@ -3009,7 +3325,7 @@
       "id": 84,
       "name": "Versatile Kitchen Cart with Adjustable Height and Foldable Design",
       "price": 1199999,
-      "url": "assets/images/products/product-84.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463473/shop/products/product-84.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Kitchen Cart",
@@ -3024,7 +3340,11 @@
       },
       "weight": "20 kg",
       "description": "The Versatile Kitchen Cart features adjustable height and a foldable design, offering flexibility and convenience. Its compact size and sturdy construction make it suitable for various kitchen tasks.",
-      "tags": ["Adjustable Height", "Foldable", "Versatile"],
+      "tags": [
+        "Adjustable Height",
+        "Foldable",
+        "Versatile"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -3043,7 +3363,7 @@
       "id": 85,
       "name": "Elegant Kitchen Island with Built-in Storage and Butcher Block Top",
       "price": 2699999,
-      "url": "assets/images/products/product-85.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463478/shop/products/product-85.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Kitchen Island",
@@ -3058,7 +3378,11 @@
       },
       "weight": "75 kg",
       "description": "This Elegant Kitchen Island features a butcher block top and built-in storage for a blend of style and practicality. Its classic design and ample storage make it a versatile addition to any kitchen.",
-      "tags": ["Butcher Block", "Built-in Storage", "Elegant"],
+      "tags": [
+        "Butcher Block",
+        "Built-in Storage",
+        "Elegant"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -3077,7 +3401,7 @@
       "id": 86,
       "name": "Contemporary Rolling Kitchen Cart with Metal Frame and Glass Shelves",
       "price": 1099999,
-      "url": "assets/images/products/product-86.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463482/shop/products/product-86.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Rolling Cart",
@@ -3092,7 +3416,11 @@
       },
       "weight": "18 kg",
       "description": "The Contemporary Rolling Kitchen Cart features metal framing and glass shelves, providing a modern touch and functionality. Its rolling design allows for easy movement and accessibility.",
-      "tags": ["Glass Shelves", "Rolling Cart", "Contemporary"],
+      "tags": [
+        "Glass Shelves",
+        "Rolling Cart",
+        "Contemporary"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -3111,7 +3439,7 @@
       "id": 87,
       "name": "Rustic Farmhouse Kitchen Island with Open Shelving and Wooden Top",
       "price": 2399999,
-      "url": "assets/images/products/product-87.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463486/shop/products/product-87.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Kitchen Island",
@@ -3126,7 +3454,11 @@
       },
       "weight": "85 kg",
       "description": "This Rustic Farmhouse Kitchen Island features open shelving and a wooden top, combining traditional charm with practical storage solutions. Its rustic design makes it a cozy addition to any kitchen.",
-      "tags": ["Wooden Top", "Open Shelving", "Rustic"],
+      "tags": [
+        "Wooden Top",
+        "Open Shelving",
+        "Rustic"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -3145,7 +3477,7 @@
       "id": 88,
       "name": "Compact Kitchen Island with Built-in Drawer and Compact Design",
       "price": 1599999,
-      "url": "assets/images/products/product-88.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463490/shop/products/product-88.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Kitchen Island",
@@ -3160,7 +3492,11 @@
       },
       "weight": "70 kg",
       "description": "The Compact Kitchen Island offers a built-in drawer and space-saving design, ideal for small kitchens. Its modern look and functional features provide extra workspace and storage.",
-      "tags": ["Built-in Drawer", "Compact", "Modern"],
+      "tags": [
+        "Built-in Drawer",
+        "Compact",
+        "Modern"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -3179,7 +3515,7 @@
       "id": 89,
       "name": "Sleek Modern Kitchen Cart with Adjustable Shelves and Locking Wheels",
       "price": 1399999,
-      "url": "assets/images/products/product-89.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463492/shop/products/product-89.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Kitchen Cart",
@@ -3194,7 +3530,11 @@
       },
       "weight": "22 kg",
       "description": "This Sleek Modern Kitchen Cart features adjustable shelves and locking wheels for convenience and stability. Its contemporary design and functionality make it a versatile addition to any kitchen.",
-      "tags": ["Adjustable Shelves", "Locking Wheels", "Modern"],
+      "tags": [
+        "Adjustable Shelves",
+        "Locking Wheels",
+        "Modern"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -3213,7 +3553,7 @@
       "id": 90,
       "name": "Traditional Wooden Kitchen Island with Classic Design and Storage Bins",
       "price": 2699999,
-      "url": "assets/images/products/product-90.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463496/shop/products/product-90.jpg",
       "category": "Kitchen",
       "subcategory": "Kitchen Islands and Carts",
       "type": "Kitchen Island",
@@ -3228,7 +3568,11 @@
       },
       "weight": "90 kg",
       "description": "The Traditional Wooden Kitchen Island features a classic design with storage bins for added convenience. Its rich wood finish and timeless style make it a perfect fit for traditional kitchens.",
-      "tags": ["Storage Bins", "Classic Design", "Wooden"],
+      "tags": [
+        "Storage Bins",
+        "Classic Design",
+        "Wooden"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -3247,7 +3591,7 @@
       "id": 91,
       "name": "Classic Subway Tile Backsplash in Glossy White",
       "price": 299999,
-      "url": "assets/images/products/product-91.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463498/shop/products/product-91.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Tile Backsplash",
@@ -3262,7 +3606,11 @@
       },
       "weight": "1 kg",
       "description": "The Classic Subway Tile Backsplash in Glossy White offers a timeless look with its sleek and shiny finish. Made from high-quality ceramic, it’s perfect for modern and traditional kitchens alike.",
-      "tags": ["Classic", "White", "Glossy"],
+      "tags": [
+        "Classic",
+        "White",
+        "Glossy"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -3281,7 +3629,7 @@
       "id": 92,
       "name": "Elegant Glass Mosaic Backsplash with Metallic Accents",
       "price": 399999,
-      "url": "assets/images/products/product-92.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463502/shop/products/product-92.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Mosaic Backsplash",
@@ -3296,7 +3644,11 @@
       },
       "weight": "0.8 kg",
       "description": "This Elegant Glass Mosaic Backsplash features metallic accents that add a touch of sophistication. Its glass tiles reflect light beautifully, enhancing the visual appeal of your kitchen.",
-      "tags": ["Elegant", "Glass", "Metallic"],
+      "tags": [
+        "Elegant",
+        "Glass",
+        "Metallic"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -3315,7 +3667,7 @@
       "id": 93,
       "name": "Rustic Stone Backsplash with Natural Texture",
       "price": 499999,
-      "url": "assets/images/products/product-93.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463505/shop/products/product-93.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Stone Backsplash",
@@ -3330,7 +3682,11 @@
       },
       "weight": "2 kg",
       "description": "The Rustic Stone Backsplash features a natural texture and earthy tones, perfect for adding a rustic charm to your kitchen. Its stone construction ensures durability and a unique look.",
-      "tags": ["Rustic", "Stone", "Natural"],
+      "tags": [
+        "Rustic",
+        "Stone",
+        "Natural"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -3349,7 +3705,7 @@
       "id": 94,
       "name": "Modern Hexagonal Tile Backsplash in Matte Black",
       "price": 349999,
-      "url": "assets/images/products/product-94.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463508/shop/products/product-94.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Tile Backsplash",
@@ -3364,7 +3720,11 @@
       },
       "weight": "0.9 kg",
       "description": "The Modern Hexagonal Tile Backsplash in Matte Black offers a sleek, contemporary design with a unique hexagonal pattern. Ideal for modern kitchens, it adds a bold statement to your space.",
-      "tags": ["Modern", "Hexagonal", "Matte Black"],
+      "tags": [
+        "Modern",
+        "Hexagonal",
+        "Matte Black"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -3383,7 +3743,7 @@
       "id": 95,
       "name": "Classic Subway Tile Backsplash in Glossy Beige",
       "price": 289999,
-      "url": "assets/images/products/product-95.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463511/shop/products/product-95.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Tile Backsplash",
@@ -3398,7 +3758,11 @@
       },
       "weight": "1 kg",
       "description": "The Classic Subway Tile Backsplash in Glossy Beige offers a neutral, classic look that complements various kitchen styles. Its ceramic material ensures durability and ease of cleaning.",
-      "tags": ["Classic", "Beige", "Glossy"],
+      "tags": [
+        "Classic",
+        "Beige",
+        "Glossy"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -3417,7 +3781,7 @@
       "id": 96,
       "name": "Luxurious Marble Backsplash with Elegant Veining",
       "price": 599999,
-      "url": "assets/images/products/product-96.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463515/shop/products/product-96.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Marble Backsplash",
@@ -3432,7 +3796,11 @@
       },
       "weight": "3 kg",
       "description": "The Luxurious Marble Backsplash features elegant veining and a high-end finish. Its marble construction adds a touch of sophistication and timeless beauty to any kitchen.",
-      "tags": ["Luxurious", "Marble", "Veining"],
+      "tags": [
+        "Luxurious",
+        "Marble",
+        "Veining"
+      ],
       "stars": 4.9,
       "reviews": [
         {
@@ -3451,7 +3819,7 @@
       "id": 97,
       "name": "Bright Subway Tile Backsplash in Glossy Light Blue",
       "price": 319999,
-      "url": "assets/images/products/product-97.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463519/shop/products/product-97.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Tile Backsplash",
@@ -3466,7 +3834,11 @@
       },
       "weight": "1 kg",
       "description": "The Bright Subway Tile Backsplash in Glossy Light Blue offers a cheerful and refreshing look for your kitchen. Its ceramic material and glossy finish make it a practical and stylish choice.",
-      "tags": ["Bright", "Light Blue", "Glossy"],
+      "tags": [
+        "Bright",
+        "Light Blue",
+        "Glossy"
+      ],
       "stars": 4.3,
       "reviews": [
         {
@@ -3485,7 +3857,7 @@
       "id": 98,
       "name": "Contemporary Metal Mosaic Backsplash with Abstract Design",
       "price": 449999,
-      "url": "assets/images/products/product-98.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463523/shop/products/product-98.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Mosaic Backsplash",
@@ -3500,7 +3872,11 @@
       },
       "weight": "1 kg",
       "description": "The Contemporary Metal Mosaic Backsplash features abstract patterns and a sleek metallic finish. It’s a modern choice that adds texture and style to your kitchen.",
-      "tags": ["Contemporary", "Metal", "Abstract"],
+      "tags": [
+        "Contemporary",
+        "Metal",
+        "Abstract"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -3519,7 +3895,7 @@
       "id": 99,
       "name": "Vintage Ceramic Backsplash with Floral Patterns",
       "price": 269999,
-      "url": "assets/images/products/product-99.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463527/shop/products/product-99.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Ceramic Backsplash",
@@ -3534,7 +3910,11 @@
       },
       "weight": "0.7 kg",
       "description": "The Vintage Ceramic Backsplash features charming floral patterns that bring a touch of nostalgia to your kitchen. Its ceramic construction ensures durability and easy maintenance.",
-      "tags": ["Vintage", "Floral", "Ceramic"],
+      "tags": [
+        "Vintage",
+        "Floral",
+        "Ceramic"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -3553,7 +3933,7 @@
       "id": 100,
       "name": "Sleek Stainless Steel Backsplash with Brushed Finish",
       "price": 369999,
-      "url": "assets/images/products/product-100.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463529/shop/products/product-100.jpg",
       "category": "Kitchen",
       "subcategory": "Backsplashes",
       "type": "Stainless Steel Backsplash",
@@ -3568,7 +3948,11 @@
       },
       "weight": "2 kg",
       "description": "The Sleek Stainless Steel Backsplash features a brushed finish that adds a contemporary touch to your kitchen. Its stainless steel material is durable and easy to clean.",
-      "tags": ["Sleek", "Stainless Steel", "Brushed Finish"],
+      "tags": [
+        "Sleek",
+        "Stainless Steel",
+        "Brushed Finish"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -3587,7 +3971,7 @@
       "id": 101,
       "name": "Modern Brushed Nickel Ceiling Light with Frosted Glass Shade",
       "price": 1299999,
-      "url": "assets/images/products/product-101.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463531/shop/products/product-101.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Flush Mount",
@@ -3603,7 +3987,11 @@
       "wattage": "40W",
       "dimmable": true,
       "description": "This modern ceiling light features a sleek brushed nickel frame and a frosted glass shade that diffuses light evenly.",
-      "tags": ["Modern", "Brushed Nickel", "Frosted Glass"],
+      "tags": [
+        "Modern",
+        "Brushed Nickel",
+        "Frosted Glass"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -3622,7 +4010,7 @@
       "id": 102,
       "name": "Elegant Crystal Chandelier with Chrome Finish and 6 Lights",
       "price": 2599999,
-      "url": "assets/images/products/product-102.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463538/shop/products/product-102.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Chandelier",
@@ -3638,7 +4026,11 @@
       "wattage": "60W",
       "dimmable": true,
       "description": "The Elegant Crystal Chandelier features sparkling crystals and a sleek chrome finish.",
-      "tags": ["Elegant", "Crystal", "Chrome"],
+      "tags": [
+        "Elegant",
+        "Crystal",
+        "Chrome"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -3657,7 +4049,7 @@
       "id": 103,
       "name": "Industrial Pendant Light with Adjustable Cord and Metal Cage Shade",
       "price": 899999,
-      "url": "assets/images/products/product-103.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463545/shop/products/product-103.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Pendant Light",
@@ -3673,7 +4065,11 @@
       "wattage": "40W",
       "dimmable": false,
       "description": "This industrial-style pendant light features a metal cage shade and an adjustable cord.",
-      "tags": ["Industrial", "Metal", "Edison Bulb"],
+      "tags": [
+        "Industrial",
+        "Metal",
+        "Edison Bulb"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -3692,7 +4088,7 @@
       "id": 104,
       "name": "Vintage Copper Ceiling Light with Dome Shade",
       "price": 1099999,
-      "url": "assets/images/products/product-104.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463551/shop/products/product-104.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Semi-Flush Mount",
@@ -3708,7 +4104,11 @@
       "wattage": "60W",
       "dimmable": true,
       "description": "Bring a vintage charm to your home with this copper ceiling light, perfect for dining rooms and kitchens.",
-      "tags": ["Vintage", "Copper", "Dome Shade"],
+      "tags": [
+        "Vintage",
+        "Copper",
+        "Dome Shade"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -3727,7 +4127,7 @@
       "id": 105,
       "name": "LED Recessed Downlight with Adjustable Beam Angle",
       "price": 499999,
-      "url": "assets/images/products/product-105.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463555/shop/products/product-105.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Recessed Light",
@@ -3742,7 +4142,11 @@
       "wattage": "15W",
       "dimmable": false,
       "description": "This LED recessed downlight provides sleek, modern lighting for any room.",
-      "tags": ["LED", "Recessed", "Adjustable Beam"],
+      "tags": [
+        "LED",
+        "Recessed",
+        "Adjustable Beam"
+      ],
       "stars": 4.3,
       "reviews": [
         {
@@ -3761,7 +4165,7 @@
       "id": 106,
       "name": "Geometric Ceiling Light with Gold Finish",
       "price": 1899999,
-      "url": "assets/images/products/product-106.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463559/shop/products/product-106.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Flush Mount",
@@ -3777,7 +4181,11 @@
       "wattage": "40W",
       "dimmable": true,
       "description": "Add a stylish geometric touch to your space with this gold ceiling light.",
-      "tags": ["Geometric", "Gold", "Flush Mount"],
+      "tags": [
+        "Geometric",
+        "Gold",
+        "Flush Mount"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -3796,7 +4204,7 @@
       "id": 107,
       "name": "Smart Ceiling Light with RGB Color Control",
       "price": 1499999,
-      "url": "assets/images/products/product-107.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463562/shop/products/product-107.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Smart Light",
@@ -3813,7 +4221,11 @@
       "dimmable": true,
       "smart_features": true,
       "description": "This smart ceiling light features customizable RGB color settings and app control.",
-      "tags": ["Smart", "RGB", "Adjustable"],
+      "tags": [
+        "Smart",
+        "RGB",
+        "Adjustable"
+      ],
       "stars": 4.8,
       "reviews": [
         {
@@ -3832,7 +4244,7 @@
       "id": 108,
       "name": "Rustic Wooden Beam Pendant Light with Edison Bulbs",
       "price": 2199999,
-      "url": "assets/images/products/product-108.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463564/shop/products/product-108.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Pendant Light",
@@ -3849,7 +4261,11 @@
       "wattage": "60W",
       "dimmable": true,
       "description": "This rustic wooden beam light is perfect for farmhouse kitchens or dining rooms.",
-      "tags": ["Rustic", "Wooden Beam", "Edison Bulbs"],
+      "tags": [
+        "Rustic",
+        "Wooden Beam",
+        "Edison Bulbs"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -3868,7 +4284,7 @@
       "id": 109,
       "name": "Brass Sputnik Chandelier with 12 Arms",
       "price": 2599999,
-      "url": "assets/images/products/product-109.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463567/shop/products/product-109.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Chandelier",
@@ -3884,7 +4300,11 @@
       "wattage": "40W per bulb",
       "dimmable": true,
       "description": "This brass Sputnik chandelier adds a mid-century modern flair to your living or dining room.",
-      "tags": ["Brass", "Sputnik", "Mid-Century"],
+      "tags": [
+        "Brass",
+        "Sputnik",
+        "Mid-Century"
+      ],
       "stars": 4.6,
       "reviews": [
         {
@@ -3903,7 +4323,7 @@
       "id": 110,
       "name": "Flush Mount Crystal Ceiling Light with Chrome Frame",
       "price": 1399999,
-      "url": "assets/images/products/product-110.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463570/shop/products/product-110.jpg",
       "category": "Lighting",
       "subcategory": "Ceiling Lights",
       "type": "Flush Mount",
@@ -3919,7 +4339,11 @@
       "wattage": "30W",
       "dimmable": true,
       "description": "This flush mount crystal ceiling light combines elegance and modern design for a luxurious look.",
-      "tags": ["Crystal", "Chrome", "Flush Mount"],
+      "tags": [
+        "Crystal",
+        "Chrome",
+        "Flush Mount"
+      ],
       "stars": 4.7,
       "reviews": [
         {
@@ -3938,7 +4362,7 @@
       "id": 111,
       "name": "Industrial Wall Sconce with Adjustable Arm",
       "price": 899999,
-      "url": "assets/images/products/product-111.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463573/shop/products/product-111.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Sconce",
@@ -3955,7 +4379,10 @@
       "wattage": "60W",
       "dimmable": true,
       "description": "This industrial wall sconce features an adjustable arm, perfect for focused lighting in any room.",
-      "tags": ["Industrial", "Adjustable Arm"],
+      "tags": [
+        "Industrial",
+        "Adjustable Arm"
+      ],
       "stars": 3.8,
       "reviews": [
         {
@@ -3974,7 +4401,7 @@
       "id": 112,
       "name": "Brass Wall Light with Frosted Glass Globe Shade",
       "price": 1199999,
-      "url": "assets/images/products/product-112.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463576/shop/products/product-112.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Sconce",
@@ -3990,7 +4417,11 @@
       "wattage": "40W",
       "dimmable": false,
       "description": "The Brass Wall Light adds a touch of elegance to your space with a frosted glass globe and a warm brass finish.",
-      "tags": ["Brass", "Frosted Glass", "Elegant"],
+      "tags": [
+        "Brass",
+        "Frosted Glass",
+        "Elegant"
+      ],
       "stars": 4.2,
       "reviews": [
         {
@@ -4009,7 +4440,7 @@
       "id": 113,
       "name": "Matte Black Up and Down LED Wall Light",
       "price": 699999,
-      "url": "assets/images/products/product-113.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463579/shop/products/product-113.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Up and Down Light",
@@ -4025,8 +4456,12 @@
       "wattage": "20W",
       "dimmable": true,
       "description": "This modern wall light provides both upward and downward lighting, ideal for hallways and outdoor areas.",
-      "tags": ["Matte Black", "LED", "Up and Down Light"],
-      "stars": 4.0,
+      "tags": [
+        "Matte Black",
+        "LED",
+        "Up and Down Light"
+      ],
+      "stars": 4,
       "reviews": [
         {
           "reviewer": "Ethan W.",
@@ -4044,7 +4479,7 @@
       "id": 114,
       "name": "Vintage Lantern Wall Light with Clear Glass Panels",
       "price": 999999,
-      "url": "assets/images/products/product-114.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463585/shop/products/product-114.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Lantern",
@@ -4060,7 +4495,11 @@
       "wattage": "60W",
       "dimmable": true,
       "description": "This vintage lantern-style wall light features clear glass panels for an authentic rustic look.",
-      "tags": ["Vintage", "Lantern", "Bronze"],
+      "tags": [
+        "Vintage",
+        "Lantern",
+        "Bronze"
+      ],
       "stars": 3.9,
       "reviews": [
         {
@@ -4079,7 +4518,7 @@
       "id": 115,
       "name": "Modern LED Wall Light with Acrylic Shade",
       "price": 799999,
-      "url": "assets/images/products/product-115.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463588/shop/products/product-115.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Sconce",
@@ -4095,7 +4534,11 @@
       "wattage": "15W",
       "dimmable": false,
       "description": "This sleek, minimalist wall light comes with an acrylic shade, perfect for modern interiors.",
-      "tags": ["Modern", "Acrylic Shade", "Sleek"],
+      "tags": [
+        "Modern",
+        "Acrylic Shade",
+        "Sleek"
+      ],
       "stars": 4.3,
       "reviews": [
         {
@@ -4114,7 +4557,7 @@
       "id": 116,
       "name": "Brushed Nickel Wall Light with Dual Glass Shades",
       "price": 1399999,
-      "url": "assets/images/products/product-116.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463593/shop/products/product-116.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Sconce",
@@ -4130,7 +4573,10 @@
       "wattage": "40W",
       "dimmable": true,
       "description": "This wall light features two frosted glass shades supported by a brushed nickel frame.",
-      "tags": ["Brushed Nickel", "Dual Glass Shades"],
+      "tags": [
+        "Brushed Nickel",
+        "Dual Glass Shades"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -4149,7 +4595,7 @@
       "id": 117,
       "name": "Minimalist Black LED Wall Light with Square Design",
       "price": 699999,
-      "url": "assets/images/products/product-117.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463596/shop/products/product-117.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Up and Down Light",
@@ -4165,7 +4611,11 @@
       "wattage": "10W",
       "dimmable": false,
       "description": "This minimalist black LED wall light is perfect for contemporary homes and commercial spaces.",
-      "tags": ["Minimalist", "Black", "LED"],
+      "tags": [
+        "Minimalist",
+        "Black",
+        "LED"
+      ],
       "stars": 3.7,
       "reviews": [
         {
@@ -4184,7 +4634,7 @@
       "id": 118,
       "name": "Art Deco Wall Light with Glass Cylinder Shade",
       "price": 1199999,
-      "url": "assets/images/products/product-118.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463600/shop/products/product-118.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Sconce",
@@ -4200,7 +4650,11 @@
       "wattage": "25W",
       "dimmable": true,
       "description": "Bring Art Deco style to your space with this gold wall light featuring a sleek glass cylinder shade.",
-      "tags": ["Art Deco", "Gold", "Glass Cylinder Shade"],
+      "tags": [
+        "Art Deco",
+        "Gold",
+        "Glass Cylinder Shade"
+      ],
       "stars": 4.1,
       "reviews": [
         {
@@ -4219,7 +4673,7 @@
       "id": 119,
       "name": "Brushed Brass Picture Light with LED Strip",
       "price": 999999,
-      "url": "assets/images/products/product-119.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463604/shop/products/product-119.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Picture Light",
@@ -4235,7 +4689,11 @@
       "wattage": "10W",
       "dimmable": false,
       "description": "Showcase your art or photos with this brushed brass picture light featuring an energy-efficient LED strip.",
-      "tags": ["Brushed Brass", "Picture Light", "LED"],
+      "tags": [
+        "Brushed Brass",
+        "Picture Light",
+        "LED"
+      ],
       "stars": 3.6,
       "reviews": [
         {
@@ -4254,7 +4712,7 @@
       "id": 120,
       "name": "Bronze Swing Arm Wall Lamp with Linen Shade",
       "price": 1499999,
-      "url": "assets/images/products/product-120.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463609/shop/products/product-120.jpg",
       "category": "Lighting",
       "subcategory": "Wall Lights",
       "type": "Swing Arm",
@@ -4270,7 +4728,11 @@
       "wattage": "60W",
       "dimmable": true,
       "description": "This traditional swing arm wall lamp is perfect for reading nooks or bedside use.",
-      "tags": ["Swing Arm", "Bronze", "Linen Shade"],
+      "tags": [
+        "Swing Arm",
+        "Bronze",
+        "Linen Shade"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -4289,7 +4751,7 @@
       "id": 121,
       "name": "Modern Arc Floor Lamp with Marble Base",
       "price": 1999999,
-      "url": "assets/images/products/product-121.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463612/shop/products/product-121.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "Arc Lamp",
@@ -4305,7 +4767,11 @@
       "wattage": "25W",
       "dimmable": true,
       "description": "A statement piece for your living room, this arc floor lamp features a sleek metal frame and a marble base for stability.",
-      "tags": ["Arc Lamp", "Modern", "Marble Base"],
+      "tags": [
+        "Arc Lamp",
+        "Modern",
+        "Marble Base"
+      ],
       "stars": 4.2,
       "reviews": [
         {
@@ -4324,7 +4790,7 @@
       "id": 122,
       "name": "Industrial Tripod Floor Lamp with Exposed Bulb",
       "price": 1499999,
-      "url": "assets/images/products/product-122.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463614/shop/products/product-122.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "Tripod Lamp",
@@ -4340,8 +4806,12 @@
       "wattage": "60W",
       "dimmable": true,
       "description": "This industrial-style tripod floor lamp features an exposed Edison bulb for a raw, edgy look.",
-      "tags": ["Industrial", "Tripod", "Edison Bulb"],
-      "stars": 4.0,
+      "tags": [
+        "Industrial",
+        "Tripod",
+        "Edison Bulb"
+      ],
+      "stars": 4,
       "reviews": [
         {
           "reviewer": "Alex D.",
@@ -4359,7 +4829,7 @@
       "id": 123,
       "name": "Brass Pharmacy Floor Lamp with Adjustable Arm",
       "price": 12999,
-      "url": "assets/images/products/product-123.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463616/shop/products/product-123.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "Pharmacy Lamp",
@@ -4375,7 +4845,11 @@
       "wattage": "20W",
       "dimmable": false,
       "description": "A classic brass pharmacy lamp with an adjustable arm to direct light where needed, perfect for reading.",
-      "tags": ["Pharmacy Lamp", "Brass", "Adjustable Arm"],
+      "tags": [
+        "Pharmacy Lamp",
+        "Brass",
+        "Adjustable Arm"
+      ],
       "stars": 4.3,
       "reviews": [
         {
@@ -4394,7 +4868,7 @@
       "id": 124,
       "name": "Modern LED Torchiere Floor Lamp",
       "price": 9999,
-      "url": "assets/images/products/product-124.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463618/shop/products/product-124.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "Torchiere",
@@ -4410,7 +4884,11 @@
       "wattage": "30W",
       "dimmable": true,
       "description": "This sleek, energy-efficient LED torchiere floor lamp is ideal for ambient lighting in modern spaces.",
-      "tags": ["LED", "Torchiere", "Modern"],
+      "tags": [
+        "LED",
+        "Torchiere",
+        "Modern"
+      ],
       "stars": 4.1,
       "reviews": [
         {
@@ -4429,7 +4907,7 @@
       "id": 125,
       "name": "Wooden Tripod Floor Lamp with Drum Shade",
       "price": 15999,
-      "url": "assets/images/products/product-125.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463621/shop/products/product-125.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "Tripod Lamp",
@@ -4445,8 +4923,12 @@
       "wattage": "60W",
       "dimmable": true,
       "description": "This wooden tripod floor lamp brings a natural feel to any room, complete with a fabric drum shade.",
-      "tags": ["Wooden", "Tripod", "Fabric Shade"],
-      "stars": 4.0,
+      "tags": [
+        "Wooden",
+        "Tripod",
+        "Fabric Shade"
+      ],
+      "stars": 4,
       "reviews": [
         {
           "reviewer": "Isabella P.",
@@ -4464,7 +4946,7 @@
       "id": 126,
       "name": "Brushed Nickel Arc Floor Lamp with Fabric Shade",
       "price": 17999,
-      "url": "assets/images/products/product-126.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463624/shop/products/product-126.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "Arc Lamp",
@@ -4480,7 +4962,11 @@
       "wattage": "25W",
       "dimmable": true,
       "description": "A modern brushed nickel arc floor lamp with a wide fabric shade, adding elegance to your living space.",
-      "tags": ["Arc Lamp", "Brushed Nickel", "Fabric Shade"],
+      "tags": [
+        "Arc Lamp",
+        "Brushed Nickel",
+        "Fabric Shade"
+      ],
       "stars": 4.4,
       "reviews": [
         {
@@ -4499,7 +4985,7 @@
       "id": 127,
       "name": "Minimalist Black LED Floor Lamp with Touch Control",
       "price": 8999,
-      "url": "assets/images/products/product-127.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463627/shop/products/product-127.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "LED Lamp",
@@ -4515,8 +5001,12 @@
       "wattage": "20W",
       "dimmable": true,
       "description": "This sleek, minimalist LED floor lamp features touch control for easy brightness adjustment.",
-      "tags": ["Minimalist", "LED", "Touch Control"],
-      "stars": 4.0,
+      "tags": [
+        "Minimalist",
+        "LED",
+        "Touch Control"
+      ],
+      "stars": 4,
       "reviews": [
         {
           "reviewer": "Mia R.",
@@ -4534,7 +5024,7 @@
       "id": 128,
       "name": "Vintage Floor Lamp with Brass Finish and Glass Shade",
       "price": 13999,
-      "url": "assets/images/products/product-128.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463633/shop/products/product-128.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "Vintage Lamp",
@@ -4550,7 +5040,11 @@
       "wattage": "40W",
       "dimmable": true,
       "description": "This vintage-inspired floor lamp with a brass finish and glass shade brings retro charm to any room.",
-      "tags": ["Vintage", "Brass", "Glass Shade"],
+      "tags": [
+        "Vintage",
+        "Brass",
+        "Glass Shade"
+      ],
       "stars": 4.3,
       "reviews": [
         {
@@ -4569,7 +5063,7 @@
       "id": 129,
       "name": "Contemporary LED Floor Lamp with Remote Control",
       "price": 19999,
-      "url": "assets/images/products/product-129.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463636/shop/products/product-129.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "LED Lamp",
@@ -4585,7 +5079,11 @@
       "wattage": "30W",
       "dimmable": true,
       "description": "This contemporary floor lamp includes remote control for easy operation and brightness adjustment.",
-      "tags": ["Contemporary", "LED", "Remote Control"],
+      "tags": [
+        "Contemporary",
+        "LED",
+        "Remote Control"
+      ],
       "stars": 4.5,
       "reviews": [
         {
@@ -4604,7 +5102,7 @@
       "id": 130,
       "name": "Rustic Wood and Metal Floor Lamp with Cage Shade",
       "price": 14999,
-      "url": "assets/images/products/product-130.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463641/shop/products/product-130.jpg",
       "category": "Lighting",
       "subcategory": "Floor Lamps",
       "type": "Rustic Lamp",
@@ -4620,7 +5118,11 @@
       "wattage": "60W",
       "dimmable": false,
       "description": "A rustic floor lamp that combines wood and metal, featuring a cage shade for a vintage industrial look.",
-      "tags": ["Rustic", "Wood and Metal", "Cage Shade"],
+      "tags": [
+        "Rustic",
+        "Wood and Metal",
+        "Cage Shade"
+      ],
       "stars": 4.2,
       "reviews": [
         {
@@ -4639,7 +5141,7 @@
       "id": 131,
       "name": "Ceramic Table Lamp with Linen Shade",
       "price": 4999,
-      "url": "assets/images/products/product-131.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463644/shop/products/product-131.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Ceramic Lamp",
@@ -4673,7 +5175,7 @@
       "id": 132,
       "name": "Industrial Table Lamp with Exposed Bulb",
       "price": 6999,
-      "url": "assets/images/products/product-132.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463647/shop/products/product-132.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Industrial Lamp",
@@ -4707,7 +5209,7 @@
       "id": 133,
       "name": "Elegant Glass Table Lamp with Gold Base",
       "price": 8999,
-      "url": "assets/images/products/product-133.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463651/shop/products/product-133.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Glass Lamp",
@@ -4741,7 +5243,7 @@
       "id": 134,
       "name": "Modern Marble Table Lamp with Fabric Shade",
       "price": 10999,
-      "url": "assets/images/products/product-134.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463655/shop/products/product-134.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Marble Lamp",
@@ -4775,7 +5277,7 @@
       "id": 135,
       "name": "Vintage Bronze Table Lamp with Adjustable Neck",
       "price": 7499,
-      "url": "assets/images/products/product-135.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463659/shop/products/product-135.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Vintage Lamp",
@@ -4809,7 +5311,7 @@
       "id": 136,
       "name": "Contemporary LED Table Lamp with Wireless Charging",
       "price": 13999,
-      "url": "assets/images/products/product-136.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463662/shop/products/product-136.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "LED Lamp",
@@ -4843,7 +5345,7 @@
       "id": 137,
       "name": "Scandinavian Table Lamp with Adjustable Shade",
       "price": 8499,
-      "url": "assets/images/products/product-137.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463665/shop/products/product-137.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Scandinavian Lamp",
@@ -4877,7 +5379,7 @@
       "id": 138,
       "name": "Classic Bronze Table Lamp with Crystal Accents",
       "price": 11999,
-      "url": "assets/images/products/product-138.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463668/shop/products/product-138.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Classic Lamp",
@@ -4911,7 +5413,7 @@
       "id": 139,
       "name": "Industrial Black Table Lamp with Exposed Bulb and Metal Shade",
       "price": 8999,
-      "url": "assets/images/products/product-139.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463670/shop/products/product-139.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Industrial Lamp",
@@ -4945,7 +5447,7 @@
       "id": 140,
       "name": "Mid-Century Modern Table Lamp with Wooden Base",
       "price": 7999,
-      "url": "assets/images/products/product-140.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463673/shop/products/product-140.jpg",
       "category": "Lighting",
       "subcategory": "Table Lamps",
       "type": "Mid-Century Lamp",
@@ -4979,7 +5481,7 @@
       "id": 141,
       "name": "Waterproof LED Outdoor Wall Light",
       "price": 12999,
-      "url": "assets/images/products/product-141.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463675/shop/products/product-141.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "Wall Light",
@@ -5013,7 +5515,7 @@
       "id": 142,
       "name": "Solar-Powered Garden Path Light",
       "price": 7999,
-      "url": "assets/images/products/product-142.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463678/shop/products/product-142.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "Path Light",
@@ -5029,7 +5531,7 @@
       "wattage": "5W",
       "dimmable": false,
       "description": "Eco-friendly solar-powered garden path lights that automatically turn on at dusk and provide ambient lighting.",
-      "stars": 4.0,
+      "stars": 4,
       "reviews": [
         {
           "name": "Alice Johnson",
@@ -5047,7 +5549,7 @@
       "id": 143,
       "name": "Rustic Lantern Outdoor Light with Vintage Finish",
       "price": 8999,
-      "url": "assets/images/products/product-143.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463681/shop/products/product-143.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "Lantern",
@@ -5081,7 +5583,7 @@
       "id": 144,
       "name": "Modern LED Flood Light with Adjustable Angle",
       "price": 14999,
-      "url": "assets/images/products/product-144.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463683/shop/products/product-144.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "Flood Light",
@@ -5115,7 +5617,7 @@
       "id": 145,
       "name": "Decorative String Lights for Outdoor Use",
       "price": 3999,
-      "url": "assets/images/products/product-145.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463686/shop/products/product-145.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "String Lights",
@@ -5149,7 +5651,7 @@
       "id": 146,
       "name": "Sleek Modern Outdoor Post Light",
       "price": 15999,
-      "url": "assets/images/products/product-146.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463689/shop/products/product-146.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "Post Light",
@@ -5183,7 +5685,7 @@
       "id": 147,
       "name": "Artistic LED Wall Light with Unique Design",
       "price": 10999,
-      "url": "assets/images/products/product-147.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463693/shop/products/product-147.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "Wall Light",
@@ -5217,7 +5719,7 @@
       "id": 148,
       "name": "Classic Garden Wall Lantern with Warm Glow",
       "price": 8999,
-      "url": "assets/images/products/product-148.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463700/shop/products/product-148.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "Wall Lantern",
@@ -5247,12 +5749,11 @@
         }
       ]
     },
-    
     {
       "id": 149,
       "name": "Contemporary LED Garden Spot Light",
       "price": 12999,
-      "url": "assets/images/products/product-149.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463703/shop/products/product-149.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "Spot Light",
@@ -5286,7 +5787,7 @@
       "id": 150,
       "name": "Elegant Outdoor String Lights with Dimmer Function",
       "price": 4799,
-      "url": "assets/images/products/product-150.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463708/shop/products/product-150.jpg",
       "category": "Lighting",
       "subcategory": "Outdoor Lighting",
       "type": "String Lights",
@@ -5320,7 +5821,7 @@
       "id": 151,
       "name": "Handwoven Persian Area Rug",
       "price": 29999,
-      "url": "assets/images/products/product-151.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463713/shop/products/product-151.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Wool",
@@ -5351,7 +5852,7 @@
       "id": 152,
       "name": "Modern Abstract Area Carpet",
       "price": 17999,
-      "url": "assets/images/products/product-152.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463718/shop/products/product-152.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Polyester",
@@ -5382,7 +5883,7 @@
       "id": 153,
       "name": "Classic Oriental Carpet Runner",
       "price": 24999,
-      "url": "assets/images/products/product-153.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463728/shop/products/product-153.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Silk",
@@ -5413,7 +5914,7 @@
       "id": 154,
       "name": "Eco-Friendly Jute Rug",
       "price": 9999,
-      "url": "assets/images/products/product-154.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463738/shop/products/product-154.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Jute",
@@ -5444,7 +5945,7 @@
       "id": 155,
       "name": "Vintage Oriental Wool Rug",
       "price": 34999,
-      "url": "assets/images/products/product-155.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463744/shop/products/product-155.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Wool",
@@ -5456,7 +5957,7 @@
       "style": "Vintage Oriental",
       "pile_height": "1.2 cm",
       "description": "A vintage Oriental wool rug with rich colors and patterns, adding a touch of classic charm to your decor.",
-      "stars": 5.0,
+      "stars": 5,
       "reviews": [
         {
           "name": "Isabella",
@@ -5475,7 +5976,7 @@
       "id": 156,
       "name": "Luxury Velvet Area Rug",
       "price": 21999,
-      "url": "assets/images/products/product-156.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463750/shop/products/product-156.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Velvet",
@@ -5506,7 +6007,7 @@
       "id": 157,
       "name": "Geometric Pattern Cotton Rug",
       "price": 8999,
-      "url": "assets/images/products/product-157.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463757/shop/products/product-157.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Cotton",
@@ -5537,7 +6038,7 @@
       "id": 158,
       "name": "Classic Wool Carpet for Living Room",
       "price": 25999,
-      "url": "assets/images/products/product-158.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463763/shop/products/product-158.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Wool",
@@ -5568,7 +6069,7 @@
       "id": 159,
       "name": "Rustic Handwoven Jute Rug",
       "price": 11999,
-      "url": "assets/images/products/product-159.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463769/shop/products/product-159.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Jute",
@@ -5599,7 +6100,7 @@
       "id": 160,
       "name": "Elegant Modern Area Carpet",
       "price": 17999,
-      "url": "assets/images/products/product-160.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463775/shop/products/product-160.jpg",
       "category": "Decor",
       "subcategory": "Rugs and Carpets",
       "material": "Polypropylene",
@@ -5630,7 +6131,7 @@
       "id": 161,
       "name": "Sheer White Curtain Panels",
       "price": 6999,
-      "url": "assets/images/products/product-161.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463779/shop/products/product-161.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Polyester",
@@ -5660,7 +6161,7 @@
       "id": 162,
       "name": "Heavy-Duty Blackout Curtains",
       "price": 12999,
-      "url": "assets/images/products/product-162.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463783/shop/products/product-162.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Velvet",
@@ -5690,7 +6191,7 @@
       "id": 163,
       "name": "Modern Roller Blinds",
       "price": 8999,
-      "url": "assets/images/products/product-163.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463788/shop/products/product-163.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Polyester",
@@ -5720,7 +6221,7 @@
       "id": 164,
       "name": "Elegant Floral Curtain Set",
       "price": 7999,
-      "url": "assets/images/products/product-164.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463793/shop/products/product-164.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Cotton",
@@ -5750,7 +6251,7 @@
       "id": 165,
       "name": "Minimalist Bamboo Blinds",
       "price": 7499,
-      "url": "assets/images/products/product-165.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463799/shop/products/product-165.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Bamboo",
@@ -5780,7 +6281,7 @@
       "id": 166,
       "name": "Luxurious Silk Curtain Panels",
       "price": 15999,
-      "url": "assets/images/products/product-166.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463805/shop/products/product-166.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Silk",
@@ -5810,7 +6311,7 @@
       "id": 167,
       "name": "Simple Linen Curtain Panels",
       "price": 4999,
-      "url": "assets/images/products/product-167.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463809/shop/products/product-167.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Linen",
@@ -5840,7 +6341,7 @@
       "id": 168,
       "name": "Elegant Velvet Drapes",
       "price": 11999,
-      "url": "assets/images/products/product-168.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463816/shop/products/product-168.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Velvet",
@@ -5870,7 +6371,7 @@
       "id": 169,
       "name": "Classic Roman Blinds",
       "price": 8999,
-      "url": "assets/images/products/product-169.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463846/shop/products/product-169.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Cotton",
@@ -5900,7 +6401,7 @@
       "id": 170,
       "name": "Contemporary Aluminum Blinds",
       "price": 6999,
-      "url": "assets/images/products/product-170.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463850/shop/products/product-170.jpg",
       "category": "Decor",
       "subcategory": "Curtains and Blinds",
       "material": "Aluminum",
@@ -5930,7 +6431,7 @@
       "id": 171,
       "name": "Abstract Canvas Wall Art",
       "price": 12999,
-      "url": "assets/images/products/product-171.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463852/shop/products/product-171.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Canvas",
@@ -5960,7 +6461,7 @@
       "id": 172,
       "name": "Vintage Framed Mirror",
       "price": 18999,
-      "url": "assets/images/products/product-172.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463856/shop/products/product-172.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Wood",
@@ -5990,7 +6491,7 @@
       "id": 173,
       "name": "Modern Geometric Wall Art",
       "price": 9999,
-      "url": "assets/images/products/product-173.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463859/shop/products/product-173.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Acrylic",
@@ -6020,7 +6521,7 @@
       "id": 174,
       "name": "Classic Landscape Painting",
       "price": 21999,
-      "url": "assets/images/products/product-174.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463865/shop/products/product-174.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Oil on Canvas",
@@ -6050,7 +6551,7 @@
       "id": 175,
       "name": "Round Decorative Mirror",
       "price": 14999,
-      "url": "assets/images/products/product-175.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463871/shop/products/product-175.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Glass",
@@ -6079,7 +6580,7 @@
       "id": 176,
       "name": "Minimalist Wall Art Print",
       "price": 4999,
-      "url": "assets/images/products/product-176.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463875/shop/products/product-176.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Paper",
@@ -6109,7 +6610,7 @@
       "id": 177,
       "name": "Baroque Wall Mirror",
       "price": 22999,
-      "url": "assets/images/products/product-177.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463883/shop/products/product-177.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Wood and Glass",
@@ -6139,7 +6640,7 @@
       "id": 178,
       "name": "Abstract Metal Wall Sculpture",
       "price": 13999,
-      "url": "assets/images/products/product-178.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463888/shop/products/product-178.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Metal",
@@ -6169,7 +6670,7 @@
       "id": 179,
       "name": "Elegant Round Wall Mirror",
       "price": 17999,
-      "url": "assets/images/products/product-179.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463895/shop/products/product-179.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Glass and Metal",
@@ -6198,7 +6699,7 @@
       "id": 180,
       "name": "Vintage Botanical Print",
       "price": 6999,
-      "url": "assets/images/products/product-180.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463900/shop/products/product-180.jpg",
       "category": "Decor",
       "subcategory": "Wall Art and Mirrors",
       "material": "Paper",
@@ -6228,7 +6729,7 @@
       "id": 181,
       "name": "Luxurious Velvet Throw",
       "price": 10999,
-      "url": "assets/images/products/product-181.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463903/shop/products/product-181.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Velvet",
@@ -6264,7 +6765,7 @@
       "id": 182,
       "name": "Cozy Knit Throw Blanket",
       "price": 6499,
-      "url": "assets/images/products/product-182.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463908/shop/products/product-182.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Acrylic",
@@ -6304,7 +6805,7 @@
       "id": 183,
       "name": "Elegant Silk Cushion Cover",
       "price": 4999,
-      "url": "assets/images/products/product-183.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463911/shop/products/product-183.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Silk",
@@ -6340,7 +6841,7 @@
       "id": 184,
       "name": "Bold Geometric Throw",
       "price": 7999,
-      "url": "assets/images/products/product-184.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463917/shop/products/product-184.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Cotton",
@@ -6376,7 +6877,7 @@
       "id": 185,
       "name": "Soft Chenille Cushion",
       "price": 3999,
-      "url": "assets/images/products/product-185.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463921/shop/products/product-185.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Chenille",
@@ -6416,7 +6917,7 @@
       "id": 186,
       "name": "Classic Wool Throw",
       "price": 8499,
-      "url": "assets/images/products/product-186.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463930/shop/products/product-186.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Wool",
@@ -6452,7 +6953,7 @@
       "id": 187,
       "name": "Luxury Faux Fur Cushion",
       "price": 6999,
-      "url": "assets/images/products/product-187.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463940/shop/products/product-187.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Faux Fur",
@@ -6492,7 +6993,7 @@
       "id": 188,
       "name": "Chic Linen Throw",
       "price": 5499,
-      "url": "assets/images/products/product-188.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463945/shop/products/product-188.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Linen",
@@ -6528,7 +7029,7 @@
       "id": 189,
       "name": "Plush Microfiber Cushion",
       "price": 3499,
-      "url": "assets/images/products/product-189.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463950/shop/products/product-189.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Microfiber",
@@ -6568,7 +7069,7 @@
       "id": 190,
       "name": "Boho Fringe Throw",
       "price": 7499,
-        "url": "assets/images/products/product-190.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463958/shop/products/product-190.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Cotton",
@@ -6604,8 +7105,7 @@
       "id": 191,
       "name": "Modern Geometric Throw",
       "price": 6999,
-      "url": "assets/images/products/product-191.jpeg",
-
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463966/shop/products/product-191.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Acrylic",
@@ -6641,8 +7141,7 @@
       "id": 192,
       "name": "Soft Plush Throw Blanket",
       "price": 7999,
-      "url": "assets/images/products/product-192.jpeg",
-
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463969/shop/products/product-192.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Plush Microfiber",
@@ -6673,7 +7172,7 @@
       "id": 193,
       "name": "Rustic Knit Cushion",
       "price": 4599,
-      "url": "assets/images/products/product-193.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463972/shop/products/product-193.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Knit Wool",
@@ -6713,7 +7212,7 @@
       "id": 194,
       "name": "Vintage Floral Throw",
       "price": 6799,
-      "url": "assets/images/products/product-194.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463975/shop/products/product-194.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Cotton Blend",
@@ -6744,7 +7243,7 @@
       "id": 195,
       "name": "Contemporary Abstract Cushion",
       "price": 3899,
-      "url": "assets/images/products/product-195.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463981/shop/products/product-195.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Polyester",
@@ -6779,9 +7278,7 @@
       "id": 196,
       "name": "Classic Cashmere Throw",
       "price": 9999,
-
-        "url": "assets/images/products/product-196.jpeg",
-
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463987/shop/products/product-196.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Cashmere",
@@ -6812,8 +7309,7 @@
       "id": 197,
       "name": "Elegant Embroidered Cushion",
       "price": 5599,
-
-        "url": "assets/images/products/product-197.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765463994/shop/products/product-197.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Cotton with Embroidery",
@@ -6844,9 +7340,7 @@
       "id": 198,
       "name": "Plush Faux Fur Throw",
       "price": 7499,
-
-        "url": "assets/images/products/product-198.jpeg",
-
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464000/shop/products/product-198.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Faux Fur",
@@ -6877,9 +7371,7 @@
       "id": 199,
       "name": "Boho Tassel Throw Blanket",
       "price": 6299,
-
-        "url": "assets/images/products/product-199.jpeg",
-
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464009/shop/products/product-199.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Cotton",
@@ -6910,9 +7402,7 @@
       "id": 200,
       "name": "Minimalist Cotton Cushion",
       "price": 3299,
-
-        "url": "assets/images/products/product-200.jpeg",
-
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464013/shop/products/product-200.jpg",
       "category": "Decor",
       "subcategory": "Cushions and Throws",
       "material": "Cotton",
@@ -6939,14 +7429,14 @@
       "id": 201,
       "name": "Classic Bathroom Vanity",
       "price": 34999,
-      "url": "assets/images/products/product-201.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464020/shop/products/product-201.jpg",
       "category": "Bathroom",
       "subcategory": "Vanities and Cabinets",
       "material": "Wood and Marble",
       "dimensions": {
-          "width": "90 cm",
-          "height": "85 cm",
-          "depth": "50 cm"
+        "width": "90 cm",
+        "height": "85 cm",
+        "depth": "50 cm"
       },
       "color": "White",
       "style": "Classic",
@@ -6954,30 +7444,30 @@
       "description": "A classic bathroom vanity with a marble countertop, offering ample storage space and an elegant design for a traditional bathroom.",
       "stars": 4.5,
       "reviews": [
-          {
-              "name": "Alice",
-              "rating": 5,
-              "comment": "Beautiful vanity, very elegant!"
-          },
-          {
-              "name": "John",
-              "rating": 4,
-              "comment": "Good quality, but a bit pricey."
-          }
+        {
+          "name": "Alice",
+          "rating": 5,
+          "comment": "Beautiful vanity, very elegant!"
+        },
+        {
+          "name": "John",
+          "rating": 4,
+          "comment": "Good quality, but a bit pricey."
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 202,
       "name": "Modern Floating Vanity",
       "price": 49999,
-      "url": "assets/images/products/product-202.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464024/shop/products/product-202.jpg",
       "category": "Bathroom",
       "subcategory": "Vanities and Cabinets",
       "material": "Wood and Glass",
       "dimensions": {
-          "width": "120 cm",
-          "height": "50 cm",
-          "depth": "45 cm"
+        "width": "120 cm",
+        "height": "50 cm",
+        "depth": "45 cm"
       },
       "color": "Gray",
       "style": "Modern",
@@ -6985,30 +7475,30 @@
       "description": "A modern floating vanity with a sleek glass countertop and integrated storage, designed to enhance the contemporary look of your bathroom.",
       "stars": 4.8,
       "reviews": [
-          {
-              "name": "Sophia",
-              "rating": 5,
-              "comment": "Absolutely love the design!"
-          },
-          {
-              "name": "Michael",
-              "rating": 4,
-              "comment": "Great vanity, just wish it had more storage."
-          }
+        {
+          "name": "Sophia",
+          "rating": 5,
+          "comment": "Absolutely love the design!"
+        },
+        {
+          "name": "Michael",
+          "rating": 4,
+          "comment": "Great vanity, just wish it had more storage."
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 203,
       "name": "Rustic Bathroom Cabinet",
       "price": 22999,
-      "url": "assets/images/products/product-203.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464027/shop/products/product-203.jpg",
       "category": "Bathroom",
       "subcategory": "Vanities and Cabinets",
       "material": "Wood",
       "dimensions": {
-          "width": "80 cm",
-          "height": "90 cm",
-          "depth": "40 cm"
+        "width": "80 cm",
+        "height": "90 cm",
+        "depth": "40 cm"
       },
       "color": "Barnwood",
       "style": "Rustic",
@@ -7016,30 +7506,30 @@
       "description": "A rustic bathroom cabinet with a vintage barnwood finish, providing ample storage and sturdy construction for a farmhouse-inspired look.",
       "stars": 4.2,
       "reviews": [
-          {
-              "name": "Emma",
-              "rating": 4,
-              "comment": "Very sturdy and beautiful!"
-          },
-          {
-              "name": "Liam",
-              "rating": 4,
-              "comment": "Perfect for my farmhouse bathroom."
-          }
+        {
+          "name": "Emma",
+          "rating": 4,
+          "comment": "Very sturdy and beautiful!"
+        },
+        {
+          "name": "Liam",
+          "rating": 4,
+          "comment": "Perfect for my farmhouse bathroom."
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 204,
       "name": "Contemporary Vanity with Sink",
       "price": 35999,
-      "url": "assets/images/products/product-204.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464031/shop/products/product-204.jpg",
       "category": "Bathroom",
       "subcategory": "Vanities and Cabinets",
       "material": "Wood and Ceramic",
       "dimensions": {
-          "width": "100 cm",
-          "height": "85 cm",
-          "depth": "50 cm"
+        "width": "100 cm",
+        "height": "85 cm",
+        "depth": "50 cm"
       },
       "color": "Black",
       "style": "Contemporary",
@@ -7047,30 +7537,30 @@
       "description": "A contemporary vanity with an integrated sink, featuring a sleek design and durable materials for a modern bathroom.",
       "stars": 4.6,
       "reviews": [
-          {
-              "name": "Isabella",
-              "rating": 5,
-              "comment": "Sleek and modern, love it!"
-          },
-          {
-              "name": "Ethan",
-              "rating": 4,
-              "comment": "Very stylish, but installation was tricky."
-          }
+        {
+          "name": "Isabella",
+          "rating": 5,
+          "comment": "Sleek and modern, love it!"
+        },
+        {
+          "name": "Ethan",
+          "rating": 4,
+          "comment": "Very stylish, but installation was tricky."
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 205,
       "name": "Industrial Style Vanity",
       "price": 42999,
-      "url": "assets/images/products/product-205.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464035/shop/products/product-205.jpg",
       "category": "Bathroom",
       "subcategory": "Vanities and Cabinets",
       "material": "Metal and Wood",
       "dimensions": {
-          "width": "110 cm",
-          "height": "90 cm",
-          "depth": "55 cm"
+        "width": "110 cm",
+        "height": "90 cm",
+        "depth": "55 cm"
       },
       "color": "Rustic Brown",
       "style": "Industrial",
@@ -7078,30 +7568,30 @@
       "description": "An industrial style vanity featuring a metal frame and reclaimed wood, providing a vintage look and sturdy construction.",
       "stars": 4.7,
       "reviews": [
-          {
-              "name": "Mia",
-              "rating": 5,
-              "comment": "Perfect for my loft-style bathroom!"
-          },
-          {
-              "name": "Noah",
-              "rating": 4,
-              "comment": "Looks great, but could use more storage."
-          }
+        {
+          "name": "Mia",
+          "rating": 5,
+          "comment": "Perfect for my loft-style bathroom!"
+        },
+        {
+          "name": "Noah",
+          "rating": 4,
+          "comment": "Looks great, but could use more storage."
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 206,
       "name": "Elegant Double Vanity",
       "price": 59999,
-      "url": "assets/images/products/product-206.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464039/shop/products/product-206.jpg",
       "category": "Bathroom",
       "subcategory": "Vanities and Cabinets",
       "material": "Wood and Quartz",
       "dimensions": {
-          "width": "150 cm",
-          "height": "85 cm",
-          "depth": "50 cm"
+        "width": "150 cm",
+        "height": "85 cm",
+        "depth": "50 cm"
       },
       "color": "White",
       "style": "Elegant",
@@ -7109,30 +7599,30 @@
       "description": "An elegant double vanity with a quartz countertop, offering double sinks and spacious storage for a luxurious bathroom experience.",
       "stars": 4.9,
       "reviews": [
-          {
-              "name": "Ava",
-              "rating": 5,
-              "comment": "Stunning and spacious, highly recommend!"
-          },
-          {
-              "name": "Lucas",
-              "rating": 5,
-              "comment": "Love the quartz finish!"
-          }
+        {
+          "name": "Ava",
+          "rating": 5,
+          "comment": "Stunning and spacious, highly recommend!"
+        },
+        {
+          "name": "Lucas",
+          "rating": 5,
+          "comment": "Love the quartz finish!"
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 207,
       "name": "Minimalist Vanity Cabinet",
       "price": 28999,
-      "url": "assets/images/products/product-207.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464041/shop/products/product-207.jpg",
       "category": "Bathroom",
       "subcategory": "Vanities and Cabinets",
       "material": "Laminate and Glass",
       "dimensions": {
-          "width": "80 cm",
-          "height": "50 cm",
-          "depth": "45 cm"
+        "width": "80 cm",
+        "height": "50 cm",
+        "depth": "45 cm"
       },
       "color": "White Gloss",
       "style": "Minimalist",
@@ -7140,116 +7630,116 @@
       "description": "A minimalist vanity cabinet with a sleek design and easy-to-clean surface, perfect for modern bathrooms with limited space.",
       "stars": 4.3,
       "reviews": [
-          {
-              "name": "Zoe",
-              "rating": 4,
-              "comment": "Simple yet elegant, fits perfectly."
-          },
-          {
-              "name": "James",
-              "rating": 4,
-              "comment": "Good for small spaces."
-          }
+        {
+          "name": "Zoe",
+          "rating": 4,
+          "comment": "Simple yet elegant, fits perfectly."
+        },
+        {
+          "name": "James",
+          "rating": 4,
+          "comment": "Good for small spaces."
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 208,
       "name": "Traditional Wall-Mounted Cabinet",
       "price": 25999,
-      "url": "assets/images/products/product-208.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464044/shop/products/product-208.jpg",
       "category": "Bathroom",
       "subcategory": "Vanities and Cabinets",
       "material": "Wood",
       "dimensions": {
-          "width": "60 cm",
-          "height": "70 cm",
-          "depth": "30 cm"
+        "width": "60 cm",
+        "height": "70 cm",
+        "depth": "30 cm"
       },
       "color": "Cherry",
       "style": "Traditional",
       "features": "Wall-mounted, decorative moldings, ample storage",
       "description": "A traditional wall-mounted cabinet with decorative moldings and ample storage, ideal for adding a classic touch to your bathroom.",
-      "stars": 4.0,
+      "stars": 4,
       "reviews": [
-          {
-              "name": "Charlotte",
-              "rating": 4,
-              "comment": "Great addition to my classic bathroom!"
-          },
-          {
-              "name": "Benjamin",
-              "rating": 4,
-              "comment": "Nice quality, but a bit smaller than expected."
-          }
+        {
+          "name": "Charlotte",
+          "rating": 4,
+          "comment": "Great addition to my classic bathroom!"
+        },
+        {
+          "name": "Benjamin",
+          "rating": 4,
+          "comment": "Nice quality, but a bit smaller than expected."
+        }
       ]
-  },
-  {
-    "id": 209,
-    "name": "Compact Vanity with Sink",
-    "price": 22999,
-    "url": "assets/images/products/product-209.jpeg",
-    "category": "Bathroom",
-    "subcategory": "Vanities and Cabinets",
-    "material": "Ceramic and Wood",
-    "dimensions": {
+    },
+    {
+      "id": 209,
+      "name": "Compact Vanity with Sink",
+      "price": 22999,
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464047/shop/products/product-209.jpg",
+      "category": "Bathroom",
+      "subcategory": "Vanities and Cabinets",
+      "material": "Ceramic and Wood",
+      "dimensions": {
         "width": "80 cm",
         "height": "75 cm",
         "depth": "40 cm"
-    },
-    "color": "Light Gray",
-    "style": "Compact",
-    "features": "Space-saving, integrated sink, modern look",
-    "description": "A compact vanity with an integrated sink, designed to save space while providing a modern and sleek look for smaller bathrooms.",
-    "stars": 4.5,
-    "reviews": [
-      {
-        "name": "Lily",
-        "rating": 5,
-        "comment": "Perfect for my small bathroom, very stylish!"
+      },
+      "color": "Light Gray",
+      "style": "Compact",
+      "features": "Space-saving, integrated sink, modern look",
+      "description": "A compact vanity with an integrated sink, designed to save space while providing a modern and sleek look for smaller bathrooms.",
+      "stars": 4.5,
+      "reviews": [
+        {
+          "name": "Lily",
+          "rating": 5,
+          "comment": "Perfect for my small bathroom, very stylish!"
+        },
+        {
+          "name": "Alexander",
+          "rating": 4,
+          "comment": "Good space-saving option, but installation was tricky."
+        }
+      ]
     },
     {
-        "name": "Alexander",
-        "rating": 4,
-        "comment": "Good space-saving option, but installation was tricky."
-    }
-    ]
-  },
-  {
-    "id": 210,
-    "name": "Luxury Floating Vanity",
-    "price": 74999,
-    "url": "assets/images/products/product-210.jpeg",
-    "category": "Bathroom",
-    "subcategory": "Vanities and Cabinets",
-    "material": "Wood and Stone",
-    "dimensions": {
+      "id": 210,
+      "name": "Luxury Floating Vanity",
+      "price": 74999,
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464050/shop/products/product-210.jpg",
+      "category": "Bathroom",
+      "subcategory": "Vanities and Cabinets",
+      "material": "Wood and Stone",
+      "dimensions": {
         "width": "140 cm",
         "height": "50 cm",
         "depth": "50 cm"
-    },
-    "color": "Dark Walnut",
-    "style": "Luxury",
-    "features": "Stone countertop, floating design, high-end finish",
-    "description": "A luxury floating vanity with a stone countertop and high-end finish, providing a stunning focal point for a luxurious bathroom.",
-    "stars": 4.9,
-    "reviews": [
+      },
+      "color": "Dark Walnut",
+      "style": "Luxury",
+      "features": "Stone countertop, floating design, high-end finish",
+      "description": "A luxury floating vanity with a stone countertop and high-end finish, providing a stunning focal point for a luxurious bathroom.",
+      "stars": 4.9,
+      "reviews": [
         {
-            "name": "Ella",
-            "rating": 5,
-            "comment": "Absolutely gorgeous, a centerpiece in my bathroom!"
+          "name": "Ella",
+          "rating": 5,
+          "comment": "Absolutely gorgeous, a centerpiece in my bathroom!"
         },
         {
-            "name": "Daniel",
-            "rating": 5,
-            "comment": "The quality is outstanding, very pleased with my purchase."
+          "name": "Daniel",
+          "rating": 5,
+          "comment": "The quality is outstanding, very pleased with my purchase."
         }
-    ]
+      ]
     },
     {
       "id": 211,
       "name": "Walk-In Shower Enclosure",
       "price": 39999,
-      "url": "assets/images/products/product-211.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464054/shop/products/product-211.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Glass and Metal",
@@ -7281,7 +7771,7 @@
       "id": 212,
       "name": "Freestanding Bathtub",
       "price": 89999,
-      "url": "assets/images/products/product-212.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464056/shop/products/product-212.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Acrylic",
@@ -7308,7 +7798,7 @@
       "id": 213,
       "name": "Corner Shower Unit",
       "price": 29999,
-      "url": "assets/images/products/product-213.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464066/shop/products/product-213.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Glass and Metal",
@@ -7335,7 +7825,7 @@
       "id": 214,
       "name": "Bathtub with Jets",
       "price": 109999,
-      "url": "assets/images/products/product-214.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464077/shop/products/product-214.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Acrylic",
@@ -7362,7 +7852,7 @@
       "id": 215,
       "name": "Compact Shower Cubicle",
       "price": 25999,
-      "url": "assets/images/products/product-215.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464084/shop/products/product-215.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Acrylic and Metal",
@@ -7389,7 +7879,7 @@
       "id": 216,
       "name": "Corner Bathtub with Jets",
       "price": 129999,
-      "url": "assets/images/products/product-216.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464090/shop/products/product-216.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Acrylic",
@@ -7416,7 +7906,7 @@
       "id": 217,
       "name": "Luxury Shower Panel",
       "price": 44999,
-      "url": "assets/images/products/product-217.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464095/shop/products/product-217.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Stainless Steel and Glass",
@@ -7443,7 +7933,7 @@
       "id": 218,
       "name": "Freestanding Shower Tub",
       "price": 74999,
-      "url": "assets/images/products/product-218.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464103/shop/products/product-218.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Acrylic and Metal",
@@ -7470,7 +7960,7 @@
       "id": 219,
       "name": "Rectangular Shower Tray",
       "price": 15999,
-      "url": "assets/images/products/product-219.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464108/shop/products/product-219.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Acrylic",
@@ -7497,7 +7987,7 @@
       "id": 220,
       "name": "Corner Bath Shower",
       "price": 119999,
-      "url": "assets/images/products/product-220.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464113/shop/products/product-220.jpg",
       "category": "Bathroom",
       "subcategory": "Showers and Bathtubs",
       "material": "Acrylic and Glass",
@@ -7524,7 +8014,7 @@
       "id": 221,
       "name": "Modern One-Piece Toilet",
       "price": 24999,
-      "url": "assets/images/products/product-221.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464117/shop/products/product-221.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Ceramic",
@@ -7557,7 +8047,7 @@
       "id": 222,
       "name": "Compact Bidet Toilet Combo",
       "price": 34999,
-      "url": "assets/images/products/product-222.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464122/shop/products/product-222.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Ceramic",
@@ -7585,7 +8075,7 @@
       "id": 223,
       "name": "Luxury Wall-Hung Toilet",
       "price": 49999,
-      "url": "assets/images/products/product-223.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464126/shop/products/product-223.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Ceramic",
@@ -7613,7 +8103,7 @@
       "id": 224,
       "name": "Traditional Two-Piece Toilet",
       "price": 17999,
-      "url": "assets/images/products/product-224.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464130/shop/products/product-224.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Ceramic",
@@ -7641,7 +8131,7 @@
       "id": 225,
       "name": "Advanced Bidet Seat",
       "price": 34999,
-      "url": "assets/images/products/product-225.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464134/shop/products/product-225.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Plastic",
@@ -7669,7 +8159,7 @@
       "id": 226,
       "name": "Eco-Friendly Dual Flush Toilet",
       "price": 29999,
-      "url": "assets/images/products/product-226.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464137/shop/products/product-226.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Ceramic",
@@ -7697,7 +8187,7 @@
       "id": 227,
       "name": "Wall-Mounted Bidet",
       "price": 39999,
-      "url": "assets/images/products/product-227.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464143/shop/products/product-227.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Ceramic",
@@ -7725,7 +8215,7 @@
       "id": 228,
       "name": "Compact Dual Flush Toilet",
       "price": 21999,
-      "url": "assets/images/products/product-228.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464151/shop/products/product-228.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Ceramic",
@@ -7753,7 +8243,7 @@
       "id": 229,
       "name": "Elegant Bidet with Remote Control",
       "price": 39999,
-      "url": "assets/images/products/product-229.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464155/shop/products/product-229.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Plastic",
@@ -7781,7 +8271,7 @@
       "id": 230,
       "name": "High-Efficiency Toilet",
       "price": 27999,
-      "url": "assets/images/products/product-230.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464158/shop/products/product-230.jpg",
       "category": "Bathroom",
       "subcategory": "Toilets and Bidets",
       "material": "Ceramic",
@@ -7809,7 +8299,7 @@
       "id": 231,
       "name": "Modern Undermount Sink",
       "price": 15999,
-      "url": "assets/images/products/product-231.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464163/shop/products/product-231.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Porcelain",
@@ -7836,7 +8326,7 @@
       "id": 232,
       "name": "Classic Drop-In Sink",
       "price": 12999,
-      "url": "assets/images/products/product-232.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464167/shop/products/product-232.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Ceramic",
@@ -7863,7 +8353,7 @@
       "id": 233,
       "name": "Contemporary Wall-Mounted Sink",
       "price": 21999,
-      "url": "assets/images/products/product-233.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464172/shop/products/product-233.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Glass",
@@ -7890,7 +8380,7 @@
       "id": 234,
       "name": "Rustic Vessel Sink",
       "price": 26999,
-      "url": "assets/images/products/product-234.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464179/shop/products/product-234.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Stone",
@@ -7917,7 +8407,7 @@
       "id": 235,
       "name": "Elegant Pedestal Sink",
       "price": 19999,
-      "url": "assets/images/products/product-235.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464182/shop/products/product-235.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Porcelain",
@@ -7944,7 +8434,7 @@
       "id": 236,
       "name": "Compact Corner Sink",
       "price": 14999,
-      "url": "assets/images/products/product-236.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464185/shop/products/product-236.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Ceramic",
@@ -7971,7 +8461,7 @@
       "id": 237,
       "name": "Luxurious Marble Sink",
       "price": 34999,
-      "url": "assets/images/products/product-237.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464189/shop/products/product-237.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Marble",
@@ -7998,7 +8488,7 @@
       "id": 238,
       "name": "Minimalist Integrated Sink",
       "price": 18999,
-      "url": "assets/images/products/product-238.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464192/shop/products/product-238.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Composite",
@@ -8025,7 +8515,7 @@
       "id": 239,
       "name": "Traditional Wall-Mounted Sink",
       "price": 15999,
-      "url": "assets/images/products/product-239.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464194/shop/products/product-239.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Ceramic",
@@ -8052,7 +8542,7 @@
       "id": 240,
       "name": "Sleek Rectangular Sink",
       "price": 21999,
-      "url": "assets/images/products/product-240.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464198/shop/products/product-240.jpg",
       "category": "Bathroom",
       "subcategory": "Bathroom Sinks",
       "material": "Glass",
@@ -8079,7 +8569,7 @@
       "id": 241,
       "name": "Modern Wall-Mounted Mirror",
       "price": 7999,
-      "url": "assets/images/products/product-241.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464200/shop/products/product-241.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Glass",
@@ -8106,7 +8596,7 @@
       "id": 242,
       "name": "Classic Framed Mirror",
       "price": 6499,
-      "url": "assets/images/products/product-242.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464203/shop/products/product-242.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Wood",
@@ -8133,7 +8623,7 @@
       "id": 243,
       "name": "Minimalist Medicine Cabinet",
       "price": 8999,
-      "url": "assets/images/products/product-243.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464206/shop/products/product-243.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Stainless Steel",
@@ -8160,7 +8650,7 @@
       "id": 244,
       "name": "Vintage Oval Mirror",
       "price": 7999,
-      "url": "assets/images/products/product-244.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464209/shop/products/product-244.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Metal",
@@ -8187,7 +8677,7 @@
       "id": 245,
       "name": "Contemporary Medicine Cabinet with LED Light",
       "price": 11999,
-      "url": "assets/images/products/product-245.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464212/shop/products/product-245.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Aluminum",
@@ -8214,7 +8704,7 @@
       "id": 246,
       "name": "Rustic Wooden Medicine Cabinet",
       "price": 10999,
-      "url": "assets/images/products/product-246.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464215/shop/products/product-246.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Reclaimed Wood",
@@ -8241,7 +8731,7 @@
       "id": 247,
       "name": "Sleek Frameless Mirror",
       "price": 6799,
-      "url": "assets/images/products/product-247.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464218/shop/products/product-247.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Glass",
@@ -8268,7 +8758,7 @@
       "id": 248,
       "name": "Luxury Lighted Mirror",
       "price": 13999,
-      "url": "assets/images/products/product-248.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464222/shop/products/product-248.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Glass",
@@ -8295,7 +8785,7 @@
       "id": 249,
       "name": "Compact Medicine Cabinet",
       "price": 5499,
-      "url": "assets/images/products/product-249.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464224/shop/products/product-249.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Plastic",
@@ -8322,7 +8812,7 @@
       "id": 250,
       "name": "Elegant Wall-Mounted Medicine Cabinet",
       "price": 9499,
-      "url": "assets/images/products/product-250.jpeg",
+      "url": "https://res.cloudinary.com/dlwtda4pl/image/upload/v1765464229/shop/products/product-250.jpg",
       "category": "Bathroom",
       "subcategory": "Mirrors and Medicine Cabinets",
       "material": "Aluminum",
